@@ -1,0 +1,128 @@
+
+Angels fans believe their club is close to retuning to the postseason but also believe they could use some new talent. 
+
+With the Angels seriously in need of a bat and general manager Bill Stoneman not known for trading young players, do you think the Angels might pursue Alfonso Soriano to play second base and move Howie Kendrick to third?
+-- Vijay R., Cerritos, Calif.
+
+Soriano certainly would be an answer at second base, and if the Angels were to sign the free agent, that would create some new options. One choice could be to leave him in the outfield with center field being a possibility. Soriano reluctantly moved to left field when he was dealt to the Nationals but was better there than expected and it didn't seem to affect his offensive numbers at all.
+
+The Angels played Kendrick out of position this past season in an effort to get his bat in the lineup, but most of that was at first base. He worked out at third base, but both he and the club feel his skills are better suited to the right side of the infield, with second base his best position. The Angels have a few questions to answer and both corner infield positions remain unsettled, but moving Kendrick to third full-time ranks down the list.
+
+With Bartolo Colon's status unsure for next year and the names of Ervin Santana and Joe Saunders being linked to trades for a big bat, will the Angels pursue lefty Barry Zito?
+-- Bill, M., Hanford, Calif.
+
+The Angels are an organization that is built on pitching, so look for the Angels to be in the running for the Southern California native. The Yankees, Mets, Dodgers, Cubs and Padres also are likely to pursue the former Cy Young winner. Zito certainly would add depth and presence to an Angels rotation, especially if Colon does not return to form and one or both of their young starters is moved in a trade.
+
+As testament to his potential value to the ballclub, Zito is 4-2 with a 0.72 ERA at Angel Stadium in seven starts over the past four seasons.
+
+If the Angels get an outfielder, what will happen to Vladimir Guerrero? Will he become the designated hitter?
+-- Jeffrey H., Anaheim
+
+Guerrero's future likely will include more games as a DH, but it remains uncertain when and if that will become a permanent condition. The Angels are in no hurry to move Guerrero out of the right-field position that he's played throughout his 11-year career. He still possesses one of the most feared arms in baseball, but knee and back ailments have begun to affect his ability to play the outfield, and making 150-plus appearances in right is a thing of the past. Last season, Guerrero logged 30 games at DH, the most of his career.
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A more likely candidate to move into the DH slot if the Angels were to land an outfielder is Garret Anderson, who battled a strained left arch all season and has been slowed by his own nagging injuries over the past couple of seasons.  Both players are signed through 2008 with club options for 2009, and both players would prefer to play the outfield than bat as the DH full-time, but some adjustments would be required to accommodate any new personnel.
+
+What is the contract status of Miguel Cabrera? If we are going to trade for someone, why doesn't his name get a mention? Forget Alex Rodriguez, Miguel Tejada, Joe Crede and Soriano. This guy makes much more sense on many levels.
+-- Joe H., Irvine, Calif.
+
+Cabrera is entering his first year of arbitration eligibility and will command a substantial raise from the $472,000 he earned this season with the Marlins. There is no question that Cabrera, a three-time All-Star, would provide a lift to the Angels' lineup after hitting .339 in 2006 with 26 homers, 50 doubles and 114 RBIs while posting a .430 on-base percentage.
+
+But first the Angels would have to convince the Marlins to part with the 23-year-old, a player who forms a strong nucleus of a potential contender. After jettisoning much of their veteran talent (Carlos Delgado, Paul Lo Duca, Mike Lowell, Luis Castillo) the Marlins made a run in the second half before fading. Florida can boast new young stars like second baseman Dan Uggla and shortstop Hanley Ramirez, and pitchers Anibal Sanchez, Scott Olsen and Dontrelle Willis. Cabrera would provide an answer for the Angels at third base, but the Marlins see him as part of their future.
+
+
+
+
+
+

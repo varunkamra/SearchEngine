@@ -1,0 +1,160 @@
+
+How much will it hurt the Angels losing Maicer Izturis for the rest of the season with his thumb injury? Do you think they will make a move for a veteran shortstop to back up Erick Aybar?
+-- Bill O., Santa Monica, Calif.
+
+
+
+Izturis ranks with Jeff Mathis as the most underrated of all the Angels. Izturis does everything consistently well and is a wonderful teammate -- he might be the nicest person in baseball, proving once again that bad things happen to good people. Yes, of course he will be missed. How much he is missed hinges on Aybar's ability to avoid the same type of injury that sidelined his buddy, Izzy -- and also took Erick out of action for a month earlier in the season. Diving for balls can be hazardous to the health, but that's how these guys play the game.
+
+Aybar is a spectacular talent. In time, he might acquire the steady style of Izturis, who closely resembles Orlando Cabrera, his predecessor and mentor. Sean Rodriguez and Brandon Wood have the talent to be quality Major League shortstops, but the interest in a veteran backup is understandable. The front office has a little time to get a feel for who is available, at what cost and whether it would be worth sacrificing young talent for a short-term insurance policy.
+
+It would delight legions of Angels fans to bring David Eckstein back to Anaheim before the Aug. 31 waiver deadline. The guy is a proven winner with talent, toughness and leadership qualities. Eckstein's Blue Jays teammate, John McDonald, is a terrific defensive player who could also help.
+
+
+
+ With the trade for Mark Teixeira and with both his and Francisco Rodriguez's contracts up at the end of the year, how likely are the Angels to sign both to long-term deals? Would they let K-Rod go to give Teixeira what he is looking for?
+-- Ryan M., Laguna Niguuel, Calif.
+
+
+
+That's the $240,000,000 question, isn't it? (I exaggerate -- only slightly). I realize this isn't what you want to hear, but it is simply too soon to make an informed assessment of where the club stands with all the decisions waiting to be addressed this winter.
+
+Teixeira figures to be romanced by some big spenders (the Yankees, Orioles, maybe the Red Sox) who could inflate the bidding into the stratosphere. That would force the Angels to evaluate just how important he would be and who they would have to let walk away to fit Teixeira into the budget.
+
+K-Rod also will be among the five or six biggest prizes in free agency, almost certain to command in the neighborhood of $15 million annually for perhaps five seasons. The Angels will have other closing options, but they recognize Frankie's value. These will be difficult calls for management, but it's premature to speculate. We have to see how the season plays out. October's developments will go a long way in shaping the course of a pivotal offseason.
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you think the Angels would have finalized the trade for Teixeira if the Red Sox had already made the Manny Ramirez trade with the Dodgers, breaking up the Manny-David Ortiz duo?
+-- Pete F., Ventura, Calif.
+
+
+
+That's a great question. Unfortunately, I don't have a great answer. I can only guess how this would have influenced the Angels' thinking, and my gut feeling is that they would have gone ahead and pursued Teixeira anyway. It seems clear that they felt he was the missing piece, that dynamic presence in the heart of the order that they felt they'd been missing for several years.
+
+Something worth adding here is that the Angels ended up getting Teixeira -- albeit a year later -- for much less than they had been offering in the summer of 2007. It would be interesting to see if the Rangers, with their ongoing need for quality pitching, regret having passed up Joe Saunders or Ervin Santana with Casey Kotchman in a widely reported proposal before the July 31 deadline. The Rangers ended up with some quality young talent from the Braves, but they would have received a 2008 All-Star starting pitcher along with a future All-Star in Kotchman had they accepted what the Angels are believed to have dangled.
+
+
+ Can Howie Kendrick get enough at-bats to quality for the American League batting title? What is the minimum required?
+
+-- Ruth B., Columbus, Ohio 
+
+
+
+This is probably a moot point. A player needs 3.1 plate appearances for each game his team plays, which adds up to 502. Kendrick would need to play every game left and average almost five plate appearances in order to qualify.
+
+Bright and aware, Kendrick realizes that isn't likely. He has gone out of his way to tell me individual goals aren't in his mind at all and that he's uncomfortable with talk about batting titles. His entire focus is on winning, which sometimes means giving up an out to advance a runner. Kendrick will win a batting title or three, but it won't happen this season.
+
+ The offense is really clicking, but I think there is one modification that manager Mike Scioscia needs to make. Kendrick is too good to be hitting No. 7 in the order. He has good speed and would get a lot of fastballs with Teixeira hitting behind him. I'd like to see Aybar in the No. 9 spot to turn the lineup card the way the Angels did with Adam Kennedy.
+-- Vijay R., Cerritos
+
+
+
+You make good points. I think Kendrick has remained where he is largely because he has hit better in that part of the order than in the first and second spots. The counter argument would be that he hadn't yet found his stroke in his return from a hamstring injury when he was thrust into those top spots. I like the idea of getting your best hitters to the plate as many times as possible -- and Kendrick is about as gifted a hitter as there is.
+
+
+The last word today goes to one of the many Casey Kotchman fans still upset over his shipment to Atlanta in the Teixeira swap.
+
+
+
+ Kotchman was hitting and defending very well and was getting better game by game. If Teixeira is not signed, to me that's a horrible trade. Even if the team wins the World Series this year and Teixeira leaves, there's a hole at first base. We had a good chance this year with Casey and a greater chance with him for years after this season. 
+-- Sean, Whittier, Calif.
+
+
+
+
+
+

@@ -1,0 +1,141 @@
+
+ Congratulations to Mike Scioscia for the team record for wins. What is it that makes him a good manager? -- Carl G., Huntington Beach, Calif. 
+
+The easy answer is players. It's also the right answer -- just not as simple as it seems.
+The secret to a long career in this highly demanding job is getting the right players and knowing what to do with them, how to put them in positions to succeed. This is where it can get complicated, for there are 25 egos on a club, and if they weren't all driven to succeed, they wouldn't be here.
+Scioscia's great strength, to me, is his ability to grasp the big picture. He has a patience that is rare in these quick-fix, get-it-all-right-now times.
+Some of his decisions probably frustrate and confound fans, but if you scratch past the surface, you'll usually find good reasons behind the moves. Scioscia has the inner strength necessary to make the unpopular, unconventional move.
+There have been managers known as geniuses who have burned up pitching staffs, managing as if there's no tomorrow. Scioscia won't do that. This isn't the NFL, where every game is filled with meaning. You manage blocks of games in baseball, and those blocks add up over the long haul.
+Scioscia has been given quality talent by owner Arte Moreno and general manager Bill Stoneman, and he has a nice feel for maximizing it. Does he make miscalculations? Sure. He's human. But he doesn't overreact or overmanage. He is thorough, on top of everything.
+
+He's good at what he does, and he figures to be doing it for a long time.
+
+ Could Robb Quinlan be the guy to protect Vladimir Guerrero in the lineup? He looks like the purest hitter the Angels have -- besides Vladdy, of course. -- Bob B., Culver City, Calif. 
+
+Quinlan's bat has come alive, and he's definitely in that mix. The guy can hit. With his upbeat, easy manner and running style, he reminds me of a young Mickey Hatcher, a man he happens to admire as the Angels' hitting coach.
+
+I suspect Scioscia will continue to mix and match behind Vlad with Casey Kotchman, Shea Hillenbrand and Quinlan. It's too soon to give up on anybody -- and that's not Scioscia's style, anyway.
+
+ Why did the Angels send Joe Saunders to Triple-A Salt Lake after he pitched so well? Saunders seems more deserving than others on the pitching staff. -- Tim C., Long Beach, Calif. 
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You're right, Saunders is a Major League pitcher. When Jered Weaver and Bartolo Colon reclaimed their spots, the brass decided it made more sense to keep Saunders in a starting rhythm in the Pacific Coast League, rather than working middle relief and getting irregular work.
+
+This way, the thinking goes, he'll be ready to jump right back into the rotation should anything happen to any of the starting five -- always a possibility. It's rare that a five-man rotation stays intact for a full season.
+
+ How is Juan Rivera progressing? -- Sheri L., Monrovia, Calif.
+
+Rivera is doing well in his recovery from a broken leg, but he's not yet ready to start swinging a bat. The projection is that he could be available to rejoin the lineup by late June, early July, assuming there are no setbacks. His bat certainly would give the offense a jolt.
+
+ Whatever happened to having doubleheaders as part of the regular-season schedule, as opposed to having them only due to a rainout? -- Zon Y., Los Angeles 
+
+They've gone the way of the 10-cent cup of coffee and filling up the gas tank for $7. The economy has dramatically changed many things in baseball, as well as society, and two games for the price of one is one casualty. The bottom line just doesn't allow it.
+
+ When Big Daddy Vladdy's contract expires, do you expect the Angels to offer him a new deal or let him test the free-agent waters? -- Cory C., Rancho Cucamonga, Calif. 
+
+I think it's safe to say the Angels will make every effort to keep Guerrero in uniform for as long as he can play baseball. It will be his decision if he wants to see what is out there in free agency, but he strikes me as a man who is content where he is. All things being relatively equal, I think he'll stay where he is.
+
+ Who are the players the team would miss most for an extended period because of injury? -- Arvid B., Santa Barbara, Calif. 
+
+Vlad, Vlad and Vlad.
+He is as valuable to his team as anybody in baseball -- probably more so. In all my years covering the game, 35 and counting, I'm not sure I've ever seen a man whose presence means as much as Guerrero's to the Angels.
+
+
+
+
+
+
+
+

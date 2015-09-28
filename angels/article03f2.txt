@@ -1,0 +1,156 @@
+
+ With sabermetrics permeating the sport, it seems that the statistical focus has changed quite a bit. Oakland GM Billy Beane has the mentality that in the postseason, the hottest team wins. If you let the game come to you like the Athletics do, don't you run the risk of letting a series get away? It seems logical that Angels manager Mike Scioscia's approach (steals, hit-and-run, sac bunt, situational hitting) increases the chances of advancing in the playoffs. What do you think?
+-- Michael C., Long Beach, Calif.
+
+I think you're on to something. I've felt all along that Moneyball theories as they relate to the playing of the game -- the offensive focus on walks and home runs -- do not play well in the postseason, where every pitch counts and you don't win series sitting back waiting for that three-run blast.
+
+I love the way the Angels attack the game. It takes me back to my NL roots with the Dodgers in the '60s when the National League dominated the World Series and All-Star Game with speed and daring, forcing the action, making things happen.
+
+That's the game Scioscia was taught as an impressionable youth with the Dodgers, captivated in Dodgertown by the words of the late, great Roy Campanella, John Roseboro and others from earlier eras. It's an approach he believes in, teaching it to the youngest of the Angels from Day 1, and it's as exciting as it is successful.
+
+From an objective fan's point of view -- words that are mutually exclusive, of course -- the dream World Series would match Scioscia's Angels against Willie Randolph's Mets. These teams play the game with passion, running the bases with purposeful abandon. It would be thrilling to watch -- and maybe it would catch on across the baseball landscape, making the game immeasurably more entertaining.
+
+
+ From catching to pitching to the infield, the Angels' youth movement and depth throughout the organization are obvious and exciting for the years ahead. But what about the outfield? Other than Reggie Willits, which players in the Angels farm system are showing the best promise and creating the most buzz in the organization? And do any of them appear to be power hitting stars of the future?
+-- Steve P., Dana Point, Calif. 
+
+The Angels' philosophy with the Draft is clear. They like to focus on hard-throwing pitchers they can mold, with catchers and infielders next on their priority list. This franchise is loaded with prospects in all these areas.
+
+Their preference in drafting outfielders runs to athletes, the idea being they'll develop power as they mature physically and move through the system. Having seen how many of the game's great sluggers began their careers as gap hitters with speed, coming into their power in their mid-20s, I think this is a sound strategy.
+
+For that reason, it's difficult to judge outfielders in their early years of development. At the moment, the best power hitters among the prospects are guys such as Nick Gorneault and Terry Evans. They're also the most advanced in terms of age and Minor League at-bats.
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I know this is pennant fever time, but I'm thinking about next year and into the future. How good is Nick Adenhart? Is he a front-of-the-rotation starter for the Angels as early as next year?
+-- Mike H., East Brunswick, N.J. 
+
+Adenhart has a great future if he stays healthy. I do see him as a top-line starter, but not in 2008. He needs another season, it appears, to smooth a few things out, to enhance his command. He's still relatively young and inexperienced.
+
+Comparisons have been drawn to Jered Weaver, but Weaver had been exposed to much more at Long Beach State by the time he signed than Adenhart, a high school draftee, when he joined the organization.
+
+Adenhart's experience with Team USA was a big step, and he had a terrific 2007 season at Double-A Arkansas. I see him starting next year at Triple-A Salt Lake and possibly coming to Anaheim by midseason, if the need arises. Once he makes the Angels rotation, he figures to stay there.
+
+
+
+ I know you hate talking about the offseason during these great moments before October arrives. But I'm still very much interested in the possible acquisition of Alex Rodriguez. Is there any new news -- or personal feelings -- you would like to share on the subject?
+-- Chris E., Newport Beach, Calif. 
+
+There is no news, and there will be no news until A-Rod and agent Scott Boras decide after the season what course they'll take with the Great One's opt-out clause. My best guess is that A-Rod will go on the open market and see what his value is. I suspect it will be somewhere in the $30 million range per season for five or six seasons -- and I continue to question whether Angels owner Arte Moreno can, or will, go that high.
+
+Let me make this clear: I think A-Rod is the player of the generation, more appealing in every respect than Barry Bonds, whose home run record I see A-Rod eclipsing. I think A-Rod will play into his 40s -- he's an amazing physical specimen -- and hit at least 800 home runs.
+
+Naturally, I would love to see him do that with the Angels. At the same time, I'd hate to see him do it in Anaheim if it means losing Vladimir Guerrero and several other key members of the current cast.
+
+I'm not sure how anyone except George Steinbrenner, with his vast TV/radio revenues, could afford to spend more than $50 million a year on two players. If you give A-Rod $30 million annually, it would be difficult to keep Vlad, whose market value escalates with A-Rod setting a new standard.
+
+But, I have to admit that the two years they'd be together would be amazing to behold, akin to Ruth-Gehrig and Mantle-Maris.
+
+
+ Do you think Scioscia will rest his players after the team clinches the division title?
+-- Donna P., Costa Mesa, Calif. 
+
+I'd run that question by him, but I hate to ruin the man's day. I prefer to leave that job to my colleagues on the beat.
+
+Scisocia doesn't address anything beyond that day, that moment, if possible. He's entrenched in his philosophy that the only game that matters is the one right in front of him. It's taken him this far, so it's as hard to move him off this approach as it was to move him off home plate if you were a runner coming home.
+
+Having said all that, I think he'll be careful with certain players, making sure he does everything possible to have all his main guns aligned for October. At the same time, he's keenly aware of the importance of finishing with the best record possible in an effort to gain home-field advantage in the playoffs.
+
+There's a balancing act involved in all this, and he's about as balanced as any manager I've been around so I'm confident he can handle it.
+
+
+
+
+
+

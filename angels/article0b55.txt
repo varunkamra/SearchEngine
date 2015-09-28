@@ -1,0 +1,126 @@
+
+With the regular season now in full swing, the mail bag has begun to spill over. Through the first nine games, Angels fans are concerned with the team's ability to play long-ball and still miss some departed stars.
+
+I know it's only a few games into the season, but I think the Angels need another bat in their lineup. The loss of guys like Troy Glaus and Tim Salmon really shows. Steve Finley, though a great player, is not a true power hitter. Is there any chance the Angels will go get a true power hitter to bolster their lineup?
+-- Bill M., Dublin, Calif. 
+
+The Angels will miss Glaus' power, no doubt. When healthy, Glaus is in the upper tier of right-handed power hitters. His recent four-game homer streak with the Diamondbacks is evidence of that while Salmon's bat and presence is missed in a number of ways. Finley may not be a classic slugger, but the 40-year-old athletic gem has proven power and is capable of going deep in any park. By season's end, Finley should reach 25-30 homers.
+
+It could be argued that Vladimir Guerrero is the club's one true power hitter, but the Angels are not exactly a Punch and Judy lineup. If his health holds this season, Garret Anderson should see a return of a 20-plus homer season while Jeff DaVanon, Juan Rivera, Orlando Cabrera and Bengie Molina are all capable of reaching the seats.
+
+Granted, the Angels are not going to slug it out with more power-oriented lineups, but they should see plenty of production with doubles and extra-base hits. As for the extra bat, the Angels still project Dallas McPherson into their plans for this season.
+
+We all know that McPherson is talented, but he is tentative at best defensively and he strikes out a lot, whereas Robb Quinlan has shown that he can play defense and handle Major League pitching well. Is there anyone else in the Angels organization who is thinking this way, or are they all anxious to get McPherson into the Major Leagues as soon as possible?
+-- Tywin G., Anaheim
+
+The Angels are not as anxious to get McPherson into the big-league lineup as they are in seeing if he can push aside the players ahead of him on the depth chart. The third base job was basically his to lose, but a herniated disk abbreviated his spring camp. Now he's essentially working through his preseason workout at Triple-A Salt Lake. Quinlan would have made the big-league club anyway and whether or not McPherson eventually makes it to the Angels, he will see time at third, particularly against left-handers. McPherson is raw at third defensively, but Quinlan does not exactly possess Gold Glove skills in the field.
+
+The wild card in the equation is Maicer Izturis, who is superior in the field even though third is not his natural position. If Izturis progresses at the plate, he'll get more playing time and will certainly be called on as a defensive replacement. But the Angels like McPherson's power and are hopeful that will transfer to the Major Leagues.
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can you shed some light on the Wil Nieves for Bret Prinz trade for me? I know Nieves wouldn't make the big league club for another year or two, but he is a solid catching prospect, which should make him a valuable trading prospect. I'm all for giving Prinz a shot, but over his career he has averaged one walk every two innings with an ERA just under 5.00. This ranks right up there with the 40-year-old Dave Parker for a young Dante Bichette trade the Angels made a few years ago.
+-- Tarry P., Barrie, Ont. 
+
+The Angels are deep throughout the organization at catcher and the trade for Prinz allowed them to address an unforeseen need in the bullpen. The last reliever's job was one of the few available this spring and the competition was tight. But Matt Hensley got hurt and Scott Dunn struggled so the Angels looked for help and were attracted by Prinz's power arm and his experience. With Kelvim Escobar hurt, Kevin Gregg moved into the rotation and that opened the door for Jake Woods. Now Prinz is on the DL with a right shoulder strain and Chris Bootcheck is in the bullpen. Basically, it was a trade that allowed them to tap into a surplus to fill a need.
+
+I was, and still am, a huge David Eckstein fan. In my mind, the move was horrible. The spring performance of Orlando Cabrera did not help me feel any better. Is Cabrera going to be the shortstop everybody wants him to be or is he another Mo Vaughn?
+-- Greg B., Irvine, Calif. 
+
+Trades and signings of years past still sting, but Cabrera will not be one of them. He's a proven Gold Glove shortstop and a productive hitter. His glove, range and arm are all superior to Eckstein's and he has more power. Eckstein was a tremendous sparkplug at the top of the lineup, but Cabrera will provide protection in the middle hitting behind the left-handers while his 10th-inning homer in Texas showed he's good in the clutch. It is hard to replace a fan favorite, but Cabrera is a tremendous upgrade for the Angels at short.
+
+
+
+
+
+

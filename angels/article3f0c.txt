@@ -1,0 +1,143 @@
+
+ It might be a little early to be talking about this, but with the way Joe Saunders and Ervin Santana are pitching, do you think both could be serious Cy Young Award candidates? And is there enough time for John Lackey to get in the argument as well?-- Justin C., Rosamond, Calif.
+
+It's never too early for a lively baseball discussion among friends, Justin. Certainly Saunders and Santana have thrust themselves into contention with their superb first halves. This is one of the best stories in the game when you consider that they came to Arizona thinking they'd be competing for the fifth spot in the rotation -- and now they are being mentioned in Cy Young conversations.
+
+There's no reason Francisco Rodriguez should be excluded from these discussions, either. He is having a season comparable to those of closers who have won the Cy Young in seasons past.
+
+As for Lackey, he'd need to close a lot of ground after missing six weeks, but I wouldn't put it past him. It's really remarkable that he has pitched as consistently as he has without the benefit of Spring Training. Of course, a cynic might interpret that as an indictment of the length of Spring Training. I've always felt that it's about two weeks too long, given how players today remain in good condition year round. But I'm sure there are good reasons why it lasts as long as it does, and I'm also sure I'll hear those reasons from a variety of sources in no time at all.
+
+ With the Angels struggling with their hitting, why not give Juan Rivera a chance to play? He's a solid hitter with power. -- Alan B., Calabasas, Calif. 
+
+In a rare start on Sunday at Dodger Stadium, Rivera came through with a pair of hits against Derek Lowe, making his case for increased playing time in the best possible way.
+
+This is a bottom-line, results-driven game. If manager Mike Scioscia thinks Rivera will help him win games, he will be in the lineup. Scioscia rewards production. Rivera is batting .188. In limited looks, Rivera hadn't been able to find his groove. Maybe now he's on to something, and if he is, he can only help this club.
+
+It has been a difficult season for Rivera, given his inconsistent playing time. He should be in his physical prime, and he has flourished in the past, so there's no reason why he couldn't do it again. The question is, where will it happen? He's a free agent after the season, and it's doubtful he'd want to go through this again.
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+So, if the Angels can't find playing time for him, the best idea might be to move him at the trading deadline if they can acquire some talent in exchange. Then again, what if they do that, and injuries take down several outfielders? It's not an easy call for general manager Tony Reagins.
+
+ With the offense struggling to put up runs, will the Angels go after a big bat before the Trade Deadline this year or stick with what they've got like last year?  -- Rodney H., Aspen, Colo.
+
+This, of course, brings us back to Rivera. Can they find a more productive, proven bat than Rivera without giving up a valuable piece for the future? I know I'm supposed to provide answers, not questions, but I am stumped on this one.
+
+I might be in the minority, but I do think the offense will come alive with Garret Anderson and Torii Hunter delivering in the heart of the lineup. These guys are established weapons.
+
+ Why does the American League West have only four teams when all the other divisions have at least five -- and the National League Central has six? Wouldn't it make sense to send a team like the Astros to the American League West?  -- Justin S., Corona, Calif. 
+
+Yes, it would make sense to do that -- but my choice for relocation would be the D-backs, who are relatively new  to the NL and would be an ideal team to relocate to the AL West. The Astros would take their place in the NL West, where they once belonged.
+
+The leagues are imbalanced, 16 in the NL, 14 in the AL, for scheduling purposes. Creating 15-team leagues, five teams in each of three divisions, would require one Interleague series to be staged throughout the season. Given how Major League Baseball values Interleague Play, this should be a slam-dunk. While one spotlight series at all times would be a fine thing, even more important is that every team in the game would have an equal shot -- a 20 percent chance mathematically -- at winning a division.
+
+One more advantage to moving the D-backs would be creating a true Interleague rival for the Padres, with the Mariners then taking on the Rockies as their natural Interleague foe.
+
+ Would it help both clubs to deal Reggie Willits to the Padres for third baseman Kevin Kouzmanoff?  -- Tucker S., San Diego
+
+That's an interesting proposal. Willits would give the Padres the swift center fielder and leadoff man they need at the spacious PETCO Park. Kouzmanoff does generate power from the right side, and the Padres have young Chase Headley available to move in at third base. From their point of view, it does make sense. As for the Angels, I think Kouzmanoff would have to be a full-time DH. Chone Figgins is one of the most productive third basemen in the game.
+
+ Will the Angels use Kendry Morales as trade bait to gain another pitcher or outfielder? They already seem to have a lock at first with Casey Kotchman.  -- Tony S., Orlando, Fla.
+
+The organization loves Morales' bat, and he has made great strides defensively at first. He has experience in the outfield as well, and hitting from both sides is a plus. To answer your question, Morales could be dangled, but I wouldn't expect to see him moved. I'm not sure he'd command enough value yet for his potential as an impact hitter.
+
+ With a surplus of center fielders, wouldn't it make sense to trade either Gary Matthews Jr. or Willits for prospects? Rivera and Morales can certainly fill in at DH with power from both sides of the plate.  -- Kevin H., Garden Grove, Calif.
+
+The Angels have vivid memories of October in the AL Division Series when they were so thin in the outfield with injuries and ailments that Figgins had to move back out there. If they're a little overloaded in the outfield this season, I'm sure it's because they don't want to see that happen again.
+
+This is one of the deepest teams, in all areas, I've ever been around. That might not be the best of all worlds for the players, preventing talented performers from playing every day, but it's comforting to know you have quality backups should any of your prime players go down.
+
+
+
+
+
+

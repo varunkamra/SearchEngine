@@ -1,0 +1,140 @@
+
+With his hot start, the Halos Hopefuls want to know why Jered Weaver was sent down. Fans are also curious about making room for some younger players.
+
+If the Angels had any sense, they would send back Hector Carrasco and Jeff Weaver back to Triple-A and keep Jered Weaver, who has been doing well.
+-- Kenneth K., Los Angeles
+
+Sending Jered Weaver back to Salt Lake was a tough decision for the Angels, but he'll be back, and probably sooner than later. He'll be able to start regularly in the Minors and he's on the same schedule as Bartolo Colon in the event Colon suffers a setback to his shoulder.
+
+A reason to hang on to Jeff Weaver in the rotation is it allows him to keep starting. Not only has he pitched better so that could help the team but it also allows the team to showcase him in any potential trades. His value is higher as a starter than a reliever. As for Carrasco, he fills a role as setup man, long man, mop-up and spot-starter.
+
+Jered Weaver pitched well enough to stick around and if he maintains that edge, he'll be back at some point this season.
+
+I'm wondering why Angels manager Mike Scioscia doesn't leave Chone Figgins at one position. It must be hard to try to learn the nuances of two entirely different positions. He is in a tough situation. I know Scioscia wants him in to spark the offense, but I'm wondering if his offense isn't starting to suffer because of his worrying about the defense?
+-- Don A., Ontario
+
+Figgins would likely settle in and perform better across the board if he were allowed to stay at one position, but he's not able to unseat anyone. When healthy, Darin Erstad is the better center fielder and as long as Dallas McPherson continues to progress at the plate, he's a better third baseman. That also goes for the other positions that Figgins occasionally plays.
+
+But he is the team's leadoff hitter and table-setter. He is one of the premier base stealers and he's a key piece to the Angels offense, so he remains in the lineup. Unfortunately, he doesn't have a set position, so the club moves him around to keep him on the field.
+
+Why not shift to a six-man rotation to give Colon and any of the other pitchers rest? Or at least move one of the starters that are going through a rough patch to the bullpen and send one of our younger 'pen guys down?
+-- Nathan H., Huntington Beach
+
+That is discussed from time to time but the club will never seriously consider a six-man rotation. The key reason is it gives pitchers too much rest and generally makes them less effective. Starting pitchers need a routine and a big piece of that requires regular work. The Angels will occasionally adjust the rotation to take advantage of an off-day and move everyone back a day or slot a starter at the back end if they need the time.
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More likely is a team moving to a four-man rotation for a stretch, particularly toward the end of the season, to maximize the number of starts if the team finds itself in the middle of a pennant race.
+
+What does the emergence of Mike Napoli mean for long-term prospects of Jeff Mathis?
+-- Pete, Cincinnati
+
+Mathis remains a part of the Angels future plans, which could very well be this season. The heir apparent to the starting catcher's job, Mathis struggled mightily in that role and was sent down to Triple-A Salt Lake, but he's performing well with the Bees. He is a fundamentally sound catcher and will get another shot at winning the job next spring.
+
+Napoli has taken hold of the job and is running with it but returning to the Minors is not out of the question if he suffers a prolonged slump, which keeps Mathis' name in the picture.
+
+I keep seeing the ridiculous numbers Howie Kendrick is putting up in Triple-A. He struggled a bit when he was called up, but he's shown he can hit. When does the club bring him up to the Majors to stay either as a DH or to replace Adam Kennedy at second?
+-- Craig, D., San Jose
+
+Considering past behavior, it is a safe bet that Kendrick will the starting second baseman next season, if not sooner. The Angels have allowed free agents to leave in the past to make room for younger players, and Kennedy is in his walk year. Kendrick is considered a can't-miss Major League hitter, so it's a matter of time before he's on the big-league roster full time. Kennedy has also been included in trade talks, so that time may be later this season.
+
+
+
+
+
+
+
+

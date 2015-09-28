@@ -1,0 +1,141 @@
+
+Since Mike Napoli has an incredible home run ratio (20 in 227 at-bats) -- higher then any hitter in the American League this season -- and with Angels pitchers having a better ERA with Jeff Mathis as the catcher, would manager Mike Scioscia consider using Napoli as the designated hitter when Mathis is behind the plate?-- Vince V., Riverside, Calif.
+
+You might be on to something here, Vince. Napoli is a force when he's healthy and locked in at the plate. No ballpark in the game can contain him when he extends and unloads. He's also one of the club's most disciplined hitters, capable of getting deep in counts, walking and keeping an inning alive.
+
+Napoli's Herculean Game 3 ALDS effort against the Red Sox in Boston (two homers, game-winning run scored after a single, handling six pitchers and 225 pitches) takes its place right alongside the greatest individual performances in franchise history. I'd like to see what Napoli can do with 500 to 600 at-bats. Serving as DH roughly half the time -- assuming Vladimir Guerrero's knee surgery has him fit for full-time duty in right field -- would help keep Napoli healthy after two straight injury-marred seasons.
+
+To make this happen, Scioscia would have to carry a third catcher. Bobby Wilson's solid defense and productive offense make him an excellent candidate to fill that role. Premium catching prospect Hank Conger, a potential star with thunder in his bat, is a few years away behind the plate.
+
+
+
+Who was the Angels' best starting pitcher last year? I think Ervin Santana was, leaving while ahead several times but not getting the win. Can you post the number of quality starts by each starter? I think Ervin would be way ahead.-- Van F., San Clemente, Calif.
+
+Fittingly, considering they began Spring Training competing for a job and blossomed as All-Stars, Santana and Joe Saunders tied for the team lead with 22 quality starts each -- Santana making one more start (32) than Saunders. Jon Garland delivered 18 quality starts in 32 trips to the bump. John Lackey had 16 quality starts out of 24, and Jered Weaver had 14 quality starts in 30 outings.
+
+A quality start is defined as at least six innings pitched, yielding three or fewer earned runs. Under a higher standard -- seven innings, three or fewer earned runs -- Santana was the club leader with 16, followed by Lackey (14), Saunders (13), Garland (10) and Weaver (6). In fairness to Saunders, he twice came within one out of high-quality starts and easily could have gotten three more outs in the season finale when he shut out Texas for six innings.
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Aside from the staggering number of saves, how do Francisco Rodriguez's other stats stack up against the rest of the league's closers? Do you see next year's closer coming from within, from a trade, or from free agency?-- John R., Clovis, Calif.
+
+The Yankees' Mariano Rivera and the Phillies' Brad Lidge had the best overall numbers (ERA, WHIP, batting average against) among closers in 2008. K-Rod, given his MLB-record 62 saves, didn't fare as well as you'd expect in the Elias Sports Bureau rankings that assess a player's talents in relation to others in his role. He was sixth in the AL among relivers, behind Joe Nathan, Joakim Soria, J.J. Putz, Rivera and Jonathan Papelbon.
+
+
+
+The Angels probably will look within if K-Rod departs. Scot Shields and Jose Arredondo had excellent numbers in late-game situations and could share the closer's role. There's also the possibility that Kelvim Escobar, a proven closer as well as a quality starter, will be available for that role around midseason in his recovery from shoulder surgery.
+
+
+
+
+
+ If the Angels can't sign K-Rod is there a chance they will they go after Trevor Hoffman or Kerry Wood to be their closer? How about making a trade for Troy Glaus or signing (free agents) Adam Dunn or Bobby Abreu if Teixeira can't be re-signed?-- Andrew L., Simi Valley, Calif.
+
+We're still very early in the free-agent process, and there are indeed some fascinating names out there. For Hoffman, the all-time saves king, wrapping up his illustrious career in Anaheim would be a great story, and he'd be a fine complement to Shields and Arredondo. Wood, despite a long history of arm issues, also could be a temporary late-inning fix, but he'll probably be back with the Cubs. An under-the-radar free-agent reliever, more affordable than the bigger names, is Twins southpaw Dennys Reyes. The former Dodger and Padre is tough on left-handed hitters and has been durable and effective in Minnesota.
+
+Glaus' name comes up frequently with readers, understandably so considering his history with the Angels. He overcame injury concerns to produce a good year for the Cardinals and could play both infield corners and DH. Dunn, also popular with e-mailers, and Abreu would be costly -- and it remains to be seen if there will be a need in the outfield.
+
+
+
+
+ How much of the cost to operate a baseball team actually gets passed to the fans via ticket, concession and merchandise prices? Do you think the Angels can go all the way if they don't sign any of the big-money dudes? If the Angels sign some of these guys, will the fans eventually pay the price? I think baseball is more fun when it doesn't cost so much. What do you think?-- Chuck M., Downey, Calif.
+
+Most fans give little thought to any of this, but of course, ultimately the consumer absorbs a fair share of these costs in some fashion. That's why it's such a balancing act for ownership in staying competitive within financial reason -- something Arte Moreno has artfully managed to do. Sure, he'd love to snap up all the big-ticket items out there and have a powerhouse. But only the Yankees, with their unmatched financial resources from radio and television deals, can do that. And yes, I think the Angels will go into another season with a real shot at winning it all.
+
+
+
+
+
+

@@ -1,0 +1,132 @@
+
+Pitching was a key for the Angels in 2005, and some fans are concerned that it will not measure up in 2006.
+
+I think that the starting pitching presents more of a potential problem than the offensive side of the club. With Bartolo Colon and Kelvim Escobar both coming off injury-marred seasons, I don't think they will be as strong a tandem in the starting rotation as they were before last year. This means that John Lackey and the kids coming up will have to carry more of the load.
+-- Tom A., San Dimas, Calif.
+
+A lot will depend on how Colon and Escobar return from injury. Escobar has already made a comeback, and he appeared strong and effective when he pitched out of the bullpen in September and the playoffs. He did not feel any pain or discomfort in his right elbow. The question marks for Colon are a bit larger, since he had two setbacks last season: his lower back and his right shoulder.
+
+Working in the staff's favor is Lackey, who had his best season last year and was arguably its best pitcher at the end of the year. In addition, Ervin Santana found consistency after an up-and-down first half and should improve as he combines his considerable talent with a greater knowledge of the league.
+
+The staff's year may hinge on the No. 5 slot, which is open to competition, with veteran Hector Carrasco and prospects Joe Saunders, Jered Weaver and Chris Bootcheck looking to start. Last season Santana filled the void left by Escobar, and the Angels feel they could have a repeat of that this season.
+
+How long do you think Mike Scioscia will remain the Angels' manager? 
+-- Brian G., Lancaster, Calif.
+
+Scioscia signed a contract extension through 2009, with a club option for 2010, this offseason. He has had tremendous success since taking over the managerial reins in 2000 and is a good bet to keep his job well beyond the expiration of his current contract.
+
+But baseball being the fickle business that it is, no job is completely secure, so on-field success is paramount to holding onto one's job. But the Angels are extremely pleased with Scioscia, who can probably keep the job for as long as he wants.
+
+Have the Angels considered giving Juan Rivera more time in left and using Garret Anderson as the DH? Rivera seems to crave the playing time and performs well when given it. He is also able to cover more ground in the outfield. 
+-- Walter R., Garden Grove, Calif.
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rivera will get his playing opportunities in the outfield in 2006, if for no other reason than to give Anderson a break. But if this year is anything like last, those opportunities will occur more frequently, as Anderson's knees and back make it more difficult for him to be the team's exclusive left fielder. The Angels prefer to have Anderson on defense, but they realize his bat is more important to the team, and should increase his time as DH.
+
+I've noticed that Lackey has signed a one-year deal. Does this mean he's a free agent at the end of the '06 season? Who else among the current roster will be eligible at the end of the 2006 season? 
+-- Kris C., London, Calif.
+
+Lackey will not be a free agent at the end of 2006 and will still be arbitration-eligible at the end of the next two seasons unless he signs a long-term contract. Darin Erstad, Escobar, Adam Kennedy and Esteban Yan are all due to become free agents at the end of 2006.
+
+It seems after last season that K-Rod might be a better middle reliever than a closer. Any chance of the Halos picking up another closer? 
+-- Conar O., Los Angeles
+
+After a season in which Rodriguez converted 45 saves, the Angels are confident they have a closer for the long haul. Most closers are supremely confident and usually have at least one great pitch. Rodriguez possesses both of those attributes, and his slider, when sharp, is one of the most devastating pitches in baseball. He tends to run counts too deep at times, but he blew only five opportunities last season and finished the year with 18 straight saves. At 24, and with his best years still ahead of him, Rodriguez is not a candidate to lose his job any time soon.
+
+
+
+
+
+
+
+

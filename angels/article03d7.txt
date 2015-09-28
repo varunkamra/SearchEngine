@@ -1,0 +1,155 @@
+
+ The volume of e-mails in the afterglow of the Orlando Cabrera-for-Jon Garland trade and the Torii Hunter free-agent signing has been overwhelming. Apologies to those who aren't included here, but space is limited -- even out here in cyberspace. 
+
+ I don't understand people complaining about giving up young talent for Miguel Cabrera, a proven All-Star with a minimum of 10 big years ahead of him. Young talent is just that, young talent. You never know if unproven players will pan out. I say give up four prospects if you have to in order to get a quality bat next to Vladimir Guerrero in the lineup.-- Marc S., Temecula, Calif. 
+
+Cabrera seems very much in play, and rightly so. A player his age (24) with his talent and accomplishments would be extremely hard to resist. He's charting a Hall of Fame course in the early stages of his career, and he hits for average as well as power.
+
+The challenge is to make it happen without giving up the farm. If Florida insists on an unacceptable package, the Angels can move on; they're not desperate now that they have Hunter, a wonderful player and personality, in the fold.
+
+The front office isn't tipping its hand in any way, but it appears that Baltimore's Miguel Tejada is Plan B. The lure here is that he wouldn't be as costly as Cabrera, but Tejada is eight years older than the Marlins' young slugger.
+
+Versatile and dynamic, Tejada also would slide comfortably into the No. 4 slot behind Guerrero. His wrist injury last season was an aberration; Tejada has been as durable as anyone in the game for a decade.
+
+
+ What are the Angels thinking? All they've talked about is the up-and-coming young guys Howie Kendrick, Brandon Wood, Nick Adenhart. Now they are talking about trading everyone. Who's going to be left? I'm really sad about losing Orlando, a real team player, one of the best things to ever happen to the Angels.-- Peggy B., Pomona, Calif. 
+
+Point, counterpoint. For every fan urging the Angels to go full-speed ahead for that one big bat, another expresses dismay over the notion of sacrificing prime young talent. The Angels have been building a strong foundation for years now, and it's beginning to yield high dividends. All three of these players -- Kendrick, Wood and Adenhart -- have star qualities. Surrendering more than one of them in any deal might be a bad idea in the big scheme.
+
+Fans have good reason to be reluctant to see some of the names mentioned sent away. I think it comes down to difficult judgments by the personnel people. Management, I'm sure, is trying to strike a balance here. Owner Arte Moreno clearly wants to go for the gusto, yet he also recognizes the importance of keeping a watchful eye on the future.
+
+
+ As an Angels fanatic, I love having Torii Hunter on our team. But how should Juan Rivera and Reggie Willits feel about this move? Nathan Haynes? Terry Evans? Should they start packing for an inevitable trade, or should they all just be looking for the most comfortable seat in the dugout?-- Kevin K., Yankton, S.D.
+It's clear the Angels do have a surplus in the outfield, and one or more of those players you mentioned could be involved in deals.
+
+Letting Willits go after everything he did in 2007 would be a blow to fans -- he's already among the club's most popular players. But maybe it would be best for Willits if he landed in a place where he could take an everyday job and just go play.
+
+Rivera is in a slightly different position after missing almost the entire '07 season with a broken leg. I'm not sure he has the value his talent warrants. He might need to show he still has the right stuff.
+
+Evans is an unproven player with big-time talent. As for Haynes, he could be a steal for somebody. I think he's better than a number of guys playing every day in the Majors, and if he gets a chance to play regularly, he'll show it.
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ What are the strengths and weaknesses of Erick Aybar, Maicer Izturis and Wood -- and who is the leading candidate to replace O.C.?-- Barbara M., Highland, Calif. 
+Aybar is a spectacular athlete with a huge upside. Because Cabrera was so durable, Aybar rarely got a chance to play his best position. I've seen him play shortstop under pressure in the Caribbean Series in Venezuela, representing the Dominican Republic, and he was sensational defensively with a cannon for a right arm. I see Aybar turning into a .280 hitter with gap power.
+
+Izturis is more like Cabrera -- steady, solid, dependable, sure-handed. He'll make all the plays. Izturis is more advanced offensively than Aybar, with better strike zone judgment. Something he's shown throughout his career is the ability to deliver with runners in scoring position: .406 in 2007, .340 lifetime.
+
+Aybar and Izturis both experienced injury issues in '07; if you're looking for a red flag, that's it.
+
+Wood, like Aybar, has a tremendously high ceiling. What separates Wood is his quickness through the strike zone and power potential. He moves well enough and has a strong enough arm to play shortstop, but his future might be at third base.
+
+I think it's too close to call right now. My feeling at the moment is they'll compete during Spring Training, and the most impressive of the three gets the job.
+
+
+ Now that the Angels have Hunter to play center, will the move of Gary Matthews Jr. to left and right hurt or help the outfield? How is the rotation going to take place to keep everyone happy and playing?-- Travis R., Lehi, Utah 
+This is potentially the best outfield in the game, offensively and defensively. Matthews has experience at the corners and will be a plus wherever he is stationed. There aren't many defenders in his class. I think this helps both Garret Anderson and Guerrero in the long haul, giving them more opportunities to serve as designated hitter and save wear on their legs.
+
+
+
+ Is there a trade the Angels could make that would fill their needs, but not cost the best young players in the organization? That seems to be the case with Miguel Cabrera and Tejada.-- Paul Y., Mar Vista, Calif. 
+OK, since you asked, I do have a dream deal: Aybar, Willits, Haynes and either Ervin Santana or Joe Saunders to the Padres for shortstop Khalil Greene and reliever Cla Meredith. (Rivera could be substituted for Willits if the Padres crave some power). I don't know if they're willing to part with Greene, who is two years removed from free agency, but I'm convinced this swap would benefit both teams -- and all six players.
+
+Greene, at 28, is one of the game's most underrated performers. He's a breathtaking shortstop and a run-producer (97 RBIs, 27 homers in 2007) who has killed the ball on the road (.849 career OPS) and suffered at home (.659 OPS).
+
+PETCO Park's vast dimensions are made to order for the wheels and skills of Aybar, Willits and Haynes, and Padres manager Buddy Black -- familiar with Santana and Saunders from his days in Anaheim as Mike Scioscia's pitching coach -- would know which buttons to push to bring out the best in them.
+
+Greene and Kendrick would be superb together, with Chone Figgins at third and Wood in the wings. The deal also would open a roster spot for one David Eckstein, whose return as an all-purpose role player would be a plus in every respect. Meredith's side-winding, sinkerball style would be a great fit in the bullpen.
+
+Orlando Cabrera will be a tough act to follow. But Khalil Greene would be a huge hit with Angels fans, just as he was with Padres partisans.
+
+
+
+
+
+

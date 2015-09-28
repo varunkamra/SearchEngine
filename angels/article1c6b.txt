@@ -1,0 +1,133 @@
+
+Questions on production, pitching and possible personnel moves filled the mailbag this week.
+
+Do you think that the Angels found their lefty in the bullpen in J.C Romero? Or is it going to be another Jason Christiansen situation?
+-- Josh G. Santa Fe Springs, Calif.
+
+Romero will undoubtedly get more work this season than Christiansen or Woods did combined for the Angels last year. The pair appeared in just 40 games total in 2005 while Romero made 68 appearances for the Twins last season. Romero will also be more than a left-handed specialist, as the Angels project his primary role as the seventh-inning setup man in front of Scot Shields and Francisco Rodriguez at the end of games.
+
+The Angels have a pretty solid lineup, but what will be the weak spot for them? 
+-- Erik P., Dyersville, Iowa
+
+Power will likely be in short supply for the Angels again in 2006, which will pressure the entire lineup to manufacture runs. Gaps in power last season led to more than a few offensive struggles. But the club is hoping that Casey Kotchman in the lineup for a full season will help run production, as will more at-bats for Juan Rivera and a healthy Dallas McPherson.
+
+Who are the free agents after this year? 
+-- Terry L., Buena Park, Calif. 
+
+Edgardo Alfonzo, Darin Erstad, Kelvim Escobar, Adam Kennedy, Romero and Jeff Weaver will all become free agents at the end of the 2006 season unless the Angels open negotiations and re-sign any of the six players mid-year.
+
+If McPherson produces and stays healthy and Rivera turns out to be quite an asset to the ballclub, will the Angels consider dealing Kennedy in order to open a position for Chone Figgins? Nothing against Kennedy, but I think Figgins has more value to the team.
+-- Jim B., Smithton, Ill. 
+
+With Kennedy facing free agency at the end of the season, a trade of the second baseman is not out of the question. The move would more likely be predicated, though, on the need to open a spot for one of the infield prospects, probably Howie Kendrick. But in the short term, trading Kennedy would allow Figgins to move to second from third and open at-bats for both McPherson and Rivera.
+
+It's been reported that McPherson is getting a workout at first base, which was opened up by moving Erstad to center field for Kotchman. What's the thinking behind working Dallas at first base? Is Kotchman set to go at first?
+-- Donald C., Anaheim 
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kotchman is indeed ready to go at first base, where he will provide a level of defense similar to that of Erstad. But with Erstad working out exclusively in the outfield, the Angels need to define their backups for first base. In addition to McPherson, Robb Quinlan and Kendry Morales are taking ground balls at first. Erstad can play first but will likely only do so on an emergency basis this season.
+
+I am concerned about the impact of the World Baseball Classic on spring preparation. With so many players, and especially pitchers, out of Spring Training it seems that it could cause a ripple effect negatively into the season. I believe in team cohesion and Spring Training helps build that.
+-- Dennis P., Prescott, Ariz.
+
+Every manager and GM that has a player in the World Baseball Classic is concerned about the very same thing. It is not only the potential loss of players to injury, but the gaps when these players will be out of camp which reduces evaluation time. The Angels currently have eight players they could be without for a significant stretch of Cactus League games. Bartolo Colon, Escobar, Rodriguez, Shields, Romero, Alfonzo, Rivera and Vladimir Guerrero are all slated to play in the Classic.
+
+
+
+
+
+
+
+

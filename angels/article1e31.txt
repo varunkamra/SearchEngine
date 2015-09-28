@@ -1,0 +1,118 @@
+
+This week's Mailbag subjects include Brad Fullmer, the Angels' organizational outfield depth, the future of Casey Kotchman and the team's 2003 No. 1 draft pick, Brandon Wood.
+
+I have noticed an interesting name still available via free agency -- Brad Fullmer. Brad was a good hitter and base runner in his time with the Angels. I don't think that there is a great likelihood of Bill Stoneman going after him because of the Angels' commitment to other players such as Chone Figgins and Robb Quinlan and I know that he did not like platooning in his two years in Anaheim, but clearly his stock is down. What do you think? -- Brian W., Temecula, Calif.
+
+Brian, I agree with you for the most part, mostly because Fullmer never fully recovered from the knee injury that ended his 2003 season in June. Fullmer aggravated the injury last year in Texas, so his health is a concern. Also, even when he is healthy, Fullmer isn't the most versatile player. He's not a great first baseman and he's never hit lefties very well. I just don't see the Angels signing him when they have a bunch of other options for DH already on the roster.
+
+I keep track of the Angels minor league system pretty consistently, and from what I see, the Angels are stacked with middle infield talent. But with Vlad Guerrerro being a fixture in right field, Steve Finley being over 40 and Garret Anderson's recent injury situation, who are the Angels' top outfield prospects for center or left field? Or do you think the Angels will have to part with an awesome infielder to get one? -- Andrew C., Oxnard, Calif.
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Andrew, you've successfully identified the weakest area of the Angels organization from a developmental standpoint. There are a number of potential big league outfielders in the system, however, and I'm going to give you my top five. The first would have to be Warner Madrigal, a power prospect. The team loves this guy, but he didn't get a chance to show what he could do last year because of injuries. He got only 91 at-bats at low Class A Cedar Rapids, so look for him there or at Rancho Cucamonga this year. He's still only 20 years old. The next one to look for could be Reggie Willits, a speedy outfielder who starred for Rancho last year, hitting .285, scoring 99 runs, driving in 52 and stealing 45 bases. Willits, who covers ground in the outfield like a glider, will get a look in big league camp this spring. Quan Cosby hit .247 for Cedar Rapids last year but is one of the fastest players in the organization. He needs to cut down on strikeouts and put the ball in play to utilize his pure speed. Two other outfield names to keep an eye out for are Nick Gorneault and Blake Balkcom.
+
+What is in the tea leaves for Casey Kotchman? He has nothing more to prove in the minors and I don't see him replacing Darin Erstad at first base unless Darin is traded or his contract is not renewed. In your view, what does the future hold for Casey? -- Ben E., Tustin, Calif.
+
+Ben, I think the Angels feel Casey has one more thing to prove, and it's not hitting Triple-A pitching or handling himself at the Major League level. He passed both of those tests with flying colors last year. The Angels would like to see Casey get through an entire season without getting hurt. Granted, most of his injuries were freak things, but with Erstad a Gold Glover at first, the Angels might start the season with Casey back in Salt Lake. They'd probably rather him get five at-bats every day -- even if he hits .400 because he isn't being challenged -- than only getting occasional starts or pinch-hit work with the big club. Kotchman's only 22, so maybe they're thinking they can wait a little while longer.
+
+What ever happened to the Angels first-round pick in 2003, Brandon Wood? Is he still with the organization? -- Steve C., Arizona
+
+Steve, Brandon Wood is most definitely still with the organization and is still viewed as a potential big league star at shortstop. Wood spent the entire 2004 season at Cedar Rapids and hit .251 with 11 homers, 64 RBIs, 65 runs scored and 25 stolen bases. Expect him to begin 2005 there or with Rancho Cucamonga.
+
+
+
+
+
+
+
+

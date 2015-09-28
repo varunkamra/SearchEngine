@@ -1,0 +1,149 @@
+
+Why aren't the Angels desperate to make one more big move? According to GM Tony Reagins, it's good to be very aggressive.
+-- James F., Placentia, Calif.
+
+Sure, it's good to be aggressive. But it's better to be smart. The Angels are in position to wait and see how the season develops, how the offense blends, how capably Erick Aybar and Maicer Izturis fill Orlando Cabrera's role at shortstop. There is no urgent need to make that big move so many fans want to see.
+
+The A's just made it clear they're in a rebuilding mode, having shipped their best pitcher, Dan Haren, to Arizona for a collection of prospects. The Mariners and Rangers have improved marginally, at best, in the offseason. At the moment, the Angels are clear favorites to defend their American League West title.
+
+Listen, I understand fans are frustrated by the way the season ended. October has not been kind to the franchise since 2002. But the team that faced the Red Sox in the AL Division Series was not by any stretch of the imagination the team that won 94 games and finished six games ahead of Seattle. I can't emphasize that enough.
+
+No club could have absorbed a series of hits to the heart of the lineup -- Chone Figgins (wrist), Gary Matthews Jr. (knee), Vladimir Guerrero (shoulder), Garret Anderson (impaired vision) and Casey Kotchman (hospitalized by illness) -- and not felt the impact dramatically. Yes, the Red Sox were on fire. They played great baseball in October. They also got lucky.
+
+David Ortiz and Manny Ramirez, injured earlier in the season, got healthy at the right time. The Sox also had good fortune in running into a severely diminished Angels club. Keep those core players reasonably healthy next October, adding Torii Hunter's 30-homer, 100-RBI bat to the mix, and you have a dangerous offense -- with enough weapons to win a World Series.
+
+Figgins' bat needs to be in the lineup every day. With the Angels reportedly pursuing power at third, this jepordizes Figgins' role -- unless he's a DH. In 2007, Figgins proved that he can hit over .300 comfortably (more ground balls, drawing higher pitch counts and walks, fewer strikeouts). With Orlando Cabrera gone, Figgins is one of the few remaining who can hit in the clutch.
+-- Gary Y., Surf City, Calif. 
+
+No worries -- Figgins will play every day. There are few leadoff men in the game as good as Chone, and he plays for a manager, Mike Scioscia, who attaches a high priority to offensive catalysts and players who can run like Figgins.
+
+One of the amazing things I've observed in Figgins is how he can adapt so gracefully to changing positions, from game to game. It's a rare talent, and it says a lot about his mental toughness. I'm not even sure what his best position is, but I've never seen anyone who can handle six different positions -- everything but first, catcher and pitcher -- as adeptly as this guy.
+
+Getting Miguel Cabrera would have been great, but the cost was way too high. What do you think about a trade with Atlanta for Mark Teixeira? The Angels could put together a big package of four or five players with all the talent they have, couldn't they?
+-- Kurt W., Springville, Calif. 
+
+The Angels have, indeed, expressed interest in Teixeira in the past, and yes, I could see that happening again under the right circumstances.
+
+Teixeira is entering the final year of his contract, and there are concerns that the Braves will not be able to pay him what he'll be worth on the open market. From what I understand, they intend to keep him and see where they are around midseason. If they're in the hunt in the National League East, they'll keep him and make a run for it. If they're out of contention, they'll probably put his name out there and see what they can get for him.
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p
+The Angels, likewise, can wait and see where they are in July and determine if they need to make a big move. It's very possible their lineup will mesh nicely, with Hunter providing power and Kotchman and Howard Kendrick staying healthy, and no moves will be necessary.
+
+Will the Angels, with all their outfielders, talk with the Cardinals about a trade now that they've traded Jim Edmonds to the Padres?
+-- Blake L., St. Louis 
+
+I am not aware of any discussions, but there are some intriguing possibilities there. The Cards reportedly would part with Scott Rolen, a quality third baseman with shoulder issues that create some risk. If the Redbirds have interest in Matthews Jr. as a replacement for Edmonds, it is conceivable something could be worked out.
+
+Matthews, who had a solid debut season in Anaheim before knee and ankle injuries sidelined him in September, has four years and about $42 million left on his contract, while Rolen is owed three years and $36 million. The money is close enough that it could lead to a discussion, at least. Less likely, for financial reasons, would be something involving Reggie Willits or Juan Rivera.
+
+Matthews loves Southern California, but he also prefers center field to moving from left to right to center in his projected 2008 role. Gary also is well aware of the Cards' great tradition. Rolen and Figgins could share third and the DH spot, with Willits and Rivera inheriting Matthews' role.
+
+Just about everything I've read on the Internet says that Izturis will get first crack at the everyday shortstop job. I would like to see Aybar installed there, leaving Izturis for the utility role. What do you think the organization's thought process is at this time?
+-- Robert A., Danville, Va.
+
+My sense is that Scioscia and Reagins share your view, Robert. I think they'll give Aybar every shot at the job this spring, knowing Izturis can handle third, short and second base with equal skill. Aybar's upside is tremendous; it's just a question of smoothing out the rough edges and finding a consistent groove.
+
+In any event, it's a great comfort knowing Izzy can move in and handle the job in a heartbeat. My guess is they'll both get plenty of time at shortstop over the course of the season, but that Aybar will open the season there.
+
+After all the time and energy spent on rehabbing Dallas McPherson, why at this point would the Angels let go of him? Depth at third base is not a strong point in the organization, and it seems he could have finally gotten his chance to prove his value.
+-- Tom C., Nanuet, N.Y. 
+
+Actually, with Brandon Wood evolving and honing his skills at third base, and with Matt Brown and P.J. Phillips also highly regarded in the system, this has become a position of depth and strength for the Angels.
+
+Apparently, they felt McPherson -- who missed the entire 2007 season after back surgery -- would benefit from a change of scenery and getting a fresh start in a new environment. He's a class act, respected throughout the organization. Everyone I've spoken with raves about the guy and wishes him the best.
+
+
+
+
+
+

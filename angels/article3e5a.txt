@@ -1,0 +1,132 @@
+
+With the season winding down, the Halos Hopefuls are curious about the playing time of some old favorites and some up-and-comers.
+
+Are Casey Kotchman and Dallas McPherson going to get any playing time soon? Kotchman, despite being sick, looks like a natural for first base.
+-- Ron C., San Jacinto, Calif.
+
+Kotchman is indeed a natural at first, which is why the Angels handed him the starting job this season and shuttled Darin Erstad off to center, but complications from mononucleosis has sidelined Kotchman since early May. The team remains puzzled at the length of his recovery, which is normally much shorter, but everyone is different and the club simply wants him to get healthy.
+
+Kotchman is still in their long-term plans and would solve the problems they've had at first base, but his return date to baseball is unknown. The Angels would like Kotchman to play winter ball and be ready for Spring Training after missing nearly an entire year.
+
+As for McPherson, he's still struggling from a herniated disk in his lower back and is weighing his offseason options: surgery or further rehab. He said he's been given opinions on both and, if he chooses surgery, there are options that could put him out from six weeks to several months. For now, McPherson will be limited to a pinch-hitting role but may get some time at designated hitter if the club falls out of the race.
+
+Why won't manager Mike Scioscia give Tim Salmon more at-bats when it seems that he produces if he gets to hit? He also is in pursuit of 300 career homers.
+-- Kyle K., Anaheim
+
+Salmon won't play for the sole purpose of individual achievements as long as the Angels are in the hunt for a playoff spot. After playing fairly often during the first half, Salmon fell back on the depth chart as Scioscia wanted both Juan Rivera and Garret Anderson in the lineup. With one of those players in the outfield and the other as the DH, there became few roles for Salmon beyond pinch-hitting against left-handers.
+
+He's now part of the designated lefty lineup and proves that he could be part of the offensive solution with homers like the one he parked Sunday. But Salmon should get his opportunities over the next few games with the Royals throwing a pair of lefties in the two-game series that starts Tuesday, and also Friday in Oakland, where Barry Zito is likely to start.
+
+But expect to see Salmon in the lineup during the final week of games in Anaheim to close out the season, especially if the Angels have been eliminated.
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the plan for Brandon Wood? I know he's young and they probably want to take it slow with him, but after destroying Single-A last year and having another good year at Double-A this year (.275, 25 homers, 83 RBIs), wouldn't it be logical to bring him up at some point next year? Or do they plan on giving him a year at each level and let him take his time at Triple-A Salt Lake for a full year before he gets to join the big club?
+-- Craig D., San Jose, Calif.
+
+The Angels way is for players to advance through each level to gain experience as they play against tougher competition. This season was a big step for Wood, as Double-A is a good barometer for the future of a ballplayer, and he hit a couple of big homers in the Olympic qualifying tournament.
+
+Salt Lake is the next step for Wood, who still must cut down on his swing. While he has tremendous power and could solve some problems for the Angels, big-league pitchers were able to expose Wood during his at-bats in Spring Training, so time at Triple-A will greatly benefit Wood. Take Mike Napoli as an example. He killed big-league pitching until they figured him out and has been lost at the plate for the last two months. Even Howie Kendrick, whose swing is more refined than either that of Wood or Napoli, has struggled when pitchers throw the breaking ball in certain counts.
+
+What still faces the Angels is a possible position switch for Wood. The 21-year-old continues to display skills worthy of a big-league shortstop, but Orlando Cabrera is signed through 2008 and the Angels have a big hole at third base, where Maicer Izturis is not a long-term option and McPherson has yet to prove his body can hold up. The Angels have not expressed a desire to move Wood, but the move may prove necessary and the club has shown a willingness to shuffle players around the diamond.
+
+With the arrival of Joe Saunders and Jered Weaver and the hopeful return of Bartolo Colon next year, what are the chances we might see Kelvim Escobar return to the bullpen? I thought he was a big reason the Angels won the division last season.
+-- Mark F., Orange, Calif.
+
+Escobar helped solve the problems in the bullpen last year and played a key role in the drive to the division title, but moving him out of the rotation is unlikely. The Angels have invested $28.5 million in Escobar through 2009 and don't want to pay that kind of money for a setup man. With improved run support, Escobar's record would be better.
+
+
+
+
+
+

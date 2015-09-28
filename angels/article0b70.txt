@@ -1,0 +1,135 @@
+
+ANAHEIM -- Vladimir Guerrero slipped a spot in the fans' balloting for the Major League All-Star Game, tumbling to fourth, while Torii Hunter remained solid at No. 9 among American League outfielders.
+
+Rangers Triple Crown candidate Josh Hamilton moved ahead of Guerrero, joining Manny Ramirez and Ichiro Suzuki as the leaders in the outfield. Guerrero is bidding to make his ninth All-Star appearance and fifth in a row in an Angels uniform. He's the 2007 Home Run Derby champion.
+
+
+
+Angels fans still have time to show their support of nine candidates on the ballot -- Guerrero, Hunter and Gary Matthews Jr. in the outfield, first baseman Casey Kotchman, second baseman Howie Kendrick, shortstop Maicer Izturis, third baseman Chone Figgins, catcher Mike Napoli and designated hitter Garret Anderson. Late surges have been known to land players spots in the showcase event.
+
+The 79th Major League Baseball All-Star Game, being held at Yankee Stadium in its final season, will be televised nationally by FOX, in Canada by Rogers Sportsnet and Sportsnet HD, and televised around the world by Major League Baseball International, with pregame ceremonies beginning at 5 p.m. PT. ESPN Radio will provide exclusive national radio coverage, while MLB.com will provide extensive online coverage. XM will provide satellite radio play-by-play coverage of the XM All-Star Futures Game.
+
+The Midsummer Classic will be the fourth held at Yankee Stadium and the eighth in New York City. The Yankees previously hosted the All-Star Game in 1939, 1960 and 1977; the Polo Grounds held the game in 1934 and 1942; Ebbets Field was the site in 1949; and Shea Stadium hosted the 1964 tilt.
+
+Fans can cast their votes for starters up to 25 times with the Monster 2008 All-Star Game Online Ballot at MLB.com and all 30 club sites until Wednesday, July 2, at 8:59 p.m.  Starting rosters will be announced during the 2008 All-Star Game Selection Show presented by Chevrolet on TBS on Sunday, July 6. Baseball fans around the world will then be able to select the final player on each team via the Monster 2008 All-Star Final Vote at MLB.com.
+
+And the voting doesn't end there. Fans will have the opportunity to participate in the official voting for the Ted Williams Most Valuable Player presented by Chevrolet at the All-Star Game via the Monster 2008 All-Star Game MVP vote at MLB.com.
+
+Kotchman has been unable to break into the top five at first base despite consistently ranking among the AL's top 10 hitters, while playing defense at a Gold Glove level.
+
+Twice an All-Star, Hunter described Kotchman as "All-Star caliber, up there with the elite. He's consistent, gets a lot of clutch hits and really handles the glove.
+
+"The problem is, he's a new name. A lot of people aren't aware of how good he is. It takes time for them to catch on."
+
+Anderson, a three-time All-Star listed as a designated hitter on the ballot, also made reference to Kotchman's consistency.
+
+"He's the same type player I was growing up," said Anderson, who is not among the top five vote-getters at DH. "He does a variety of things well, but doesn't really jump out at you.
+
+"People take for granted what he does out there defensively. He saves a lot of runs. He's made a lot of great plays to help out our infielders -- and our pitchers. But defense isn't glamorous, unless you're playing center field or shortstop. Those are the only two people who are supposed to have athletic ability -- but that's not the case."
+
+
+table.ballotResults {width:581px; border:1px solid #132448; background-color:#fff;}
+table.ballotResults th.tableHdr {text-align:left; padding:3px; background-color:#132448; color:#fff; font-weight:bold;}
+table.ballotResults th {text-align:left; padding:3px; background-color:#333; color:#fff; font-weight:bold;}
+table.ballotResults tr.colHdr td {background-color:#666; color:#fff;}
+table.ballotResults td {padding:0px 3px;}
+table.ballotResults tr.odd td {background-color:#dedede;}
+table.ballotResults tr.even td {background-color:#fff;}
+
+
+
+
+2008 MLB All-Star Balloting : American League
+
+
+First Base
+RANKPLAYER NAMEAL TEAMTOTAL VOTES
+
+1.Youkilis, K.Red Sox662,869
+2.Morneau, J.Twins409,406
+3.Giambi, J.Yankees283,596
+4.Pena, C.Rays199,568
+5.Guillen, C.Tigers181,328
+
+
+
+Second Base
+RANKPLAYER NAMEAL TEAMTOTAL VOTES
+
+1.Pedroia, D.Red Sox591,860
+2.Cano, R.Yankees354,535
+3.Polanco, P.Tigers241,282
+4.Kinsler, I.Rangers232,611
+5.Roberts, B.Orioles165,949
+
+
+Third base
+RANKPLAYER NAMEAL TEAMTOTAL VOTES
+
+1.Rodriguez, A.Yankees712,899
+2.Lowell, M.Red Sox409,685
+3.Cabrera, M.Tigers283,542
+4.Crede, J.White Sox222,084
+5.Rolen, S.Blue Jays137,604
+
+Shortstop
+RANKPLAYER NAMEAL TEAMTOTAL VOTES
+
+1.Jeter, D.Yankees832,561
+2.Renteria, E.Tigers273,857
+3.Young, M.Rangers266,494
+4.Lugo, J.Red Sox204,041
+5.Cabrera, O.White Sox175,138
+
+
+Catcher
+RANKPLAYER NAMEAL TEAMTOTAL VOTES
+
+1.Varitek, J.Red Sox477,630
+2.Mauer, J.Twins396,643
+3.Rodriguez, I.Tigers349,130
+4.Posada, J.Yankees312,279
+5.Martinez, V.Indians234,008
+
+Designated hitter
+RANKPLAYER NAMEAL TEAMTOTAL VOTES
+
+1.Ortiz, D.Red Sox893,915
+2.Matsui, H.Yankees423,551
+3.Thome, J.White Sox264,156
+4.Sheffield, G.Tigers144,919
+5.Hafner, T.Indians109,044
+
+
+Outfield
+RANKPLAYER NAMEAL TEAMTOTAL VOTES
+
+1.Ramirez, M.Red Sox811,612
+2.Hamilton, J.Rangers479,492
+3.Suzuki, I.Mariners456,136
+4.Guerrero, V.Angels431,101
+5.Abreu, B.Yankees373,889
+6.Ordonez, M.Tigers362,179
+7.Cabrera, M.Yankees310,477
+8.Damon, J.Yankees302,972
+9.Hunter, T.Angels296,301
+10.Drew, J.D.Red Sox292,629
+11.Sizemore, G.Indians280,975
+12.Crawford, C.Rays247,997
+13.Crisp, C.Red Sox231,799
+14.Granderson, C.Tigers194,293
+15.Upton, B.J.Rays193,585
+
+
+
+Results updated: Monday, June 2, 2008
+
+
+
+
+
+
+
+
+
+

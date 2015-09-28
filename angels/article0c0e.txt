@@ -1,0 +1,128 @@
+
+The Winter Meetings are done, but the Halos Hopefuls wonder what's next.
+
+Are the Angels planning on a platoon at first with Kendry Morales and Casey Kotchman if a deal for a power hitter at first base can't be done? Or will either have a chance to win the job outright?
+-- Tarry P., Barrie, Ontario
+
+The Angels would rather avoid a platoon at first base and hope someone steps up to win the job. If help does not come from the outside, Kotchman likely would become the leading candidate if he can return to baseball shape after his months-long recovery from mononucleosis. Morales' chances are a bit longer. After hitting .234 in 57 games for the Angels last season, Morales showed he still has progress to make in his development as a big-league hitter, and he also has work to do around the bag.
+
+One name to still consider is Darin Erstad. The longer he remains unsigned, the greater the chances are that he will get a contract with a chance to win a job this spring. And with Gary Matthews Jr. in center, that opportunity would be at first base.
+
+With Shea Hillenbrand still a free agent, can't the Angels sign him to play third and make a trade for Adam LaRoche for Chone Figgins and Bartolo Colon? This would give the Angels more than enough power, and with a rotation that was so successful last year, why change it?
+-- Chad H., Long Beach, Calif.
+
+Hillenbrand remains a possibility. The Angels targeted him last season as a trade option for Adam Kennedy, and Hillenbrand would add a veteran bat to the lineup. Where he plays would be contingent on what other pieces they might add between now and the beginning of the season. If they do not sign a third baseman, Hillenbrand would likely play first with the Angels using Figgins at third and possibly a platoon.
+
+But the team will probably still make a play for LaRoche. The Braves insisted on a pitcher in their proposed trade, but over the next few weeks, the Angels will revisit this deal and others. The aim will be to make a deal without giving up pitching with Figgins and Kotchman as candidates to lead such a package. Even if the Angels were truly interested in moving Colon, it will be tough until he proves healthy.
+
+As much as I like Scot Shields, the Angels should do him and themselves a favor by trading him. His value is high and many teams could use him as a closer. The Angels can package Shields with one of their middle-infield prospects and acquire the bat we've been hearing about.
+-- Gene S., San Juan Capistrano, Calif.
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There is little question the Angels could have swung a deal for a hitter at the Winter Meetings if they had been persuaded to include Shields. His name came up frequently and likely will again. But the Angels value his skills at least as much as those clubs that would like to convert him into a closer. Shields has averaged 76 appearances over the past two seasons and the Angels brought in Justin Speier to help carry the load as setup specialist to closer Francisco Rodriguez.
+
+The team is convinced it cannot win without building and maintaining the best pitching staff it can, even if that comes at the expense of offensive production.
+
+Why do the Angels have any interest in first basemen? Any one of Dallas McPherson, Kotchman, Morales or Erstad could emerge in the spring. Howie Kendrick could go back and play first and Maicer Izturis could play second if need be. The Angels are desperate for a third sacker with pop; why the distractions over first?
+-- Ed L., Peoria, Ill.
+
+The Angels have targeted both third and first this offseason while hoping to land a power bat in the process. The opportunities at first have been more readily available in recent negotiations, but the options within their own organization are more suspect at the position. McPherson, Kotchman and Erstad all have questions to answer about their health and Morales could use another year in the Minors. With Kennedy gone, the Angels are ready to move Kendrick to second base.
+
+If nothing were to happen at third base, and they didn't pack his bags, the Angels would be comfortable to hand the job to Figgins with Izturis as an alternative. And if he can prove he's healthy, McPherson is a better option at third base than first. After losing out on Aramis Ramirez and Alex Rodriguez being a fantasy-team option, the Angels have focused on first while keeping an eye on third-base options.
+
+
+
+
+
+

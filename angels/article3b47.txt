@@ -1,0 +1,136 @@
+
+Angels Nation is lamenting the loss of Darin Erstad to free agency, while others are curious what kind of position shuffles can be expected this year.
+
+I understand Howie Kendrick is the second baseman of the future for the Angels, but is there any possibility that Kendrick could play first base for this season and Maicer Izturis play second? Izzy is a natural middle infielder, plus he adds speed, good on-base percentage and batting average to the lineup. Kendrick started 40-plus games at first for the Angels and committed two errors.
+-- Jason L., North Ogden, Utah
+
+Izturis will have a role, and what remains to be seen is where. He took over as the primary starter at third base last season and played well, despite only moving there a year earlier. Also at the end of the season, Izturis became the leadoff hitter and injected some life into the top of the order. While shortstop Orlando Cabrera is the lone infielder with a firm hold on a job, the Angels are ready to move Kendrick to second base.
+
+With the team in need of a first baseman last year, specifically one that could add some offense, Kendrick handled the assignment even though he hadn't played the position before. His natural position is second base, though, and the team would rather move him back to where he's more comfortable and have one of their first-base options, like Casey Kotchman or Kendry Morales emerge. But manager Mike Scioscia has demonstrated a willingness to shift players around the diamond in the past, so tapping Izturis to play second, at least occasionally, is not out of the question.
+
+Although all four American League West teams have made some changes in the offseason, I don't see any earth-shattering deals that will significantly affect any of the four teams. If the Angels can stay healthy, shouldn't they still be considered the favorites in the West?
+-- Mark M., Allen, Texas
+
+The AL West is closer top to bottom than it has been in recent years, and the Angels should have as good a shot at winning the division as any of the other three. Keeping starters on the field will be critical for the Angels, and the club already has been dealt a blow with the loss of outfielder Juan Rivera, but playing in their favor is their pitching staff.
+
+Even without Bartolo Colon, the Angels will boast arguably the division's best starting rotation. Jered Weaver must prove he can match the great start to his career, but having John Lackey and Kelvim Escobar at the top of the rotation with Ervin Santana, who continues to make strides, will put the Angels in a good position to win most nights. And that is before handing the ball over to the bullpen, which again will help form the backbone of the team.
+
+Scoring runs could be a problem, so don't expect the Angels to overpower anyone. None of the teams in the division appears capable of winning 95-plus games, so expect the division to be tight all season.
+
+Is there any possibility of a trade involving the Angels and the Marlins? I was wondering if we were in the market for Miguel Cabrera and Dontrelle Willis for a handful of our young talent.
+-- Jesse R., Tulare, Calif.
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A number of Angels fans have been curious to know if their club could land Cabrera in a trade, but that possibility at this point is remote at best. While the Angels would love to have players like Cabrera and Willis, the team that is even more interested in the pair is the Marlins. Florida, which has control of both players for the next three seasons, is not that far away from contending in the National League East, and it has a number of young players, headed by Cabrera, who could have it challenging for a pennant within a short time. Cabrera would solve a few problems, but it's not likely to be in Anaheim.
+
+Who's going to be a free agent after this year?
+-- Keith C., Lancaster, Calif.
+
+Colon and Jose Molina will be free agents, while Shea Hillenbrand, Hector Carrasco and Darren Oliver all have options for 2008. Every other player is either signed or under control through 2008.
+
+How bad are the Angels really going to miss Darin Erstad and his leadership?
+-- Adam C., Fountain Valley, Calif.
+
+That's tough to say at this point. The team will need some players to step into the leadership void left by Erstad's departure. Erstad's style was leading more by example. He preferred to make his point by how he played more than by what he said. But Erstad also was unafraid to speak his mind when the situation warranted. Teams continue to evolve relative to their personnel, and Erstad certainly helped define the Angels as a team that played hard and played the right way. The Angels are fairly businesslike in their approach, but they will need someone to remind them what that business is on occasion.
+
+The last word:
+I am shocked to hear that Erstad signed with another team. Nobody can deny that the 2002 Angels, and any other champs for that matter, benefited from great chemistry. Yet it appears the Angels value chemistry very little, as they have lost all the players that brought them success through leadership and good chemistry on top of good play. While I have respect for many of the current players, I look at the current roster and can't find one that will provide the kind of selfless leadership and experience as did Erstad, Adam Kennedy, David Eckstein, Bengie Molina or Jarrod Washburn. All of these players were shown the door a little too easily.
+-- Rich K., Irvine, Calif.
+
+
+
+
+
+

@@ -1,0 +1,137 @@
+
+The Hot Stove League is about to kick into gear and Angels fans are curious about who might be coming to the rescue.
+
+I was disappointed when the Angels let Scott Spiezio get away. Once again, he's showing how valuable he is in the postseason. Any chance the Angels could reacquire him?  He wouldn't even have to change the color of that fluff on his chin.
+-- Jim M., Rancho Cucamonga, Calif.
+
+There is certainly a chance given that Spiezio will be a free agent this winter, but the Angels would have to decide that Spiezio is a superior reserve option as a corner infielder and pinch-hitter than their current group that includes Robb Quinlan and Maicer Izturis.
+
+The club also has the option of sliding players like Howie Kendrick over to first base, and Chone Figgins can play just about anywhere while the team holds out hope that Casey Kotchman and Dallas McPherson will overcome illness and injury, respectively, to fill in gaps and contribute. But the word is out that the Angels will be active this offseason, and a player like Spiezio is proving his value when the calendar flips to October.
+
+Are the Angels going to return the entire starting staff? I like Joe Saunders very much, but if Bartolo Colon comes back and pitches like he did in 2005, there will be no chance for the lefty.
+-- Dario P., Italy
+
+A lot will hinge on Colon's ability to bounce back from a partially torn right-rotator cuff, and that will throw some caution into the ballclub's plans as they include some of their young pitchers in trade talks.
+
+But if the team is going to make some moves this winter and they explore the trade routes, most prospective deals likely will include Saunders and Ervin Santana. If Colon is healthy, look for at least one of those pitchers to be wearing a different uniform next season. If not, both will probably be in the Angels' rotation on Opening Day.
+
+Any chance the Angels will pursue Alex Rodriguez? The Yankees need pitching and the Angels need power and a third baseman.
+-- Ben K., Encino, Calif.
+
+The Angels will be interested, but more of a question is whether or not the Yankees are actually interested in moving Rodriguez. His so-called bad year, .290, 35 homers and 121 RBIs, created a firestorm of dump A-Rod talk, but the prevailing wind has him staying in the Bronx. Rodriguez also would have to waive his no-trade clause, and he's expressed his interest to stay where he is in recent weeks. But he's already done that once since signing a 10-year, $252 million contract, when he went from the Rangers to the Yankees after the 2004 season.
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+He will be owed $27 million a year through 2010, but the Rangers are picking up a portion of that, some of which is deferred until 2025. Any deal for Rodriguez will be complicated, but as you point out, the Angels have the pitching the Yankees need and A-Rod could help fill the power void in Anaheim.
+
+Who do you think the Angels are more probable to get, Alfonso Soriano or Alex Rodriguez?
+-- Diego M., La Habra, Calif.
+
+Simply judging from past tendencies and the difficult negotiations that will likely accompany a trade for Rodriguez, of the two players, Soriano would have the better chance of becoming an Angel. The club already made a run at Soriano during the trading deadline, and he is a free agent. General manager Bill Stoneman prefers the free-agent route over making trades as it allows him to control more factors of a deal, and Soriano, after becoming a 40-40-40 man (46 homers, 41 stolen bases and 41 doubles) would certainly add some punch to the offense.
+
+Why can't the Angels keep Darin Erstad at first base?
+-- Travis B., Athol, Idaho
+
+As the offseason shakes out come February, that could be a solution. Erstad first must prove that he is healthy following surgery on his right ankle, but the club sorely missed his ability to play first and it showed as the Angels went from one of the best defensive teams in the Majors to one of the worst. The club needs power out of the first base position, but if they are able to add pieces elsewhere in the lineup, Erstad's glove would be a plus.
+
+What other power hitters will be available to the Angels?
+-- David C., Rancho Cucamonga, Calif.
+
+Aside from Soriano, Barry Bonds, Carlos Lee, Nomar Garciaparra and Cliff Floyd are free agents this winter, while Gary Sheffield has a $13 million option with the Yankees. Gary Matthews Jr. is not exactly a power hitter but is solid offensively and is one the best center fielders in the league. Other free agents include Trot Nixon and Shea Hillenbrand, while Jim Edmonds, Preston Wilson, Mike Piazza, Aramis Ramirez, Dmitri Young and Jeromy Burnitz are all facing option years.
+
+
+
+
+
+

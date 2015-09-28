@@ -1,0 +1,149 @@
+
+ What is it going to take to sign Mark Teixeira? Imagine the numbers he can produce with a full season and multiple years for the club. This is the protection for Vladimir Guerrero they have been talking about the past few years.
+-- Trent C., Placentia, Calif.
+
+This is something -- maybe the only thing -- Angels loyalists can agree on: Tex is a perfect fit in an Angels uniform, batting third in front of Guerrero. They responded beautifully to each other in the 54 games (plus four postseason games) they were linked in manager Mike Scioscia's lineup. Getting Teixeira back in No. 25, however, will not be easy.
+
+The Angels will stretch the limits of their budget to bring him back. What those limits are, I don't know. I can only guess that they'll go as far as six years in the $120 million range. He's 28, in his prime, playing a relatively low-risk position. He rarely misses a game, causes no problems and is about as upbeat as they come. This guy is as worthy of a megadeal as anybody.
+
+The Red Sox, Orioles and Diamondbacks are among those presumably interested, but the wild card, as always, is the Yankees. With the deepest pockets in sports, they can offer Teixeira more than anybody else. Then it becomes his decision, if the Bronx is where he wants to be.
+
+But the Yankees' biggest need is on the mound. There are some starters -- starting with CC Sabathia and A.J. Burnett -- who will command huge dollars on the open market. There's also the gentleman with Bronx roots: Manny Ramirez. You have to believe he'd love to pull on pinstripes and torment his old club to the north in the brand new Yankee Stadium. It's going to be fascinating watching all of this play out.
+
+ Brett of Yorba Linda asked you to comment on Garret Anderson's chances of staying with the Angels, and you didn't comment. How about a guess?
+-- Bob W., Orange, Calif.
+
+I read his question to be more about the possibilities of acquiring free agents Ramirez and or Sabathia than the 2009 status of Anderson (and Guerrero). As for Anderson, my sense is he'll be given a buyout and go on the market as a free agent, exploring what his value is. That will help him decide if it's in his best interest to return if the Angels want him back another season or two. I'd call it 50-50 now. (As for Guerrero, he'll be back).
+
+While he's not the lethal force he was from 2000 through 2003, Anderson, at 36, remains a versatile, productive hitter. His 587 plate appearances in '08 were his most since '05, and he was second on the club in RBIs with 84 despite batting second in the order 22 times. After the All-Star break, Anderson hit .335 (.293 overall) with a .460 slugging percentage and .360 on-base percentage. He did not have a good ALDS (3-for-19) but hit in bad luck, lining out once to left and twice driving balls to walls for outs, one on a spectacular catch by J.D. Drew.
+
+I'm frequently asked where I think Anderson ranks among the all-time Angels. I'd place him second, behind Nolan Ryan. The Express put the franchise on the map, gave it an identity. Anderson has been its most productive, enduring position player.
+
+ If Teixeira leaves, wouldn't it be a smart move to try to make a deal with Atlanta to bring Casey Kotchman back? Kotch is two years younger than Tex but already has begun showing Tex-like talent. I think it could be a win-win move for both the Angels and Braves.
+-- Michael L., West Covina, Calif.
+
+It will be interesting to see if the Braves land Jake Peavy from the Padres. Atlanta has the young talent to make it happen, and Peavy, an Alabama boy, would be a natural fit with the team he grew up cheering for in Mobile. If such a trade is made, it likely will involve at least one of the Braves' middle infielders. The Angels are loaded with middle infielders and could put together a nice package for Kotchman.
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ My gut feeling is that if Teixiera doesn't sign, the Angels reset the infield to Kendry Morales at first, Howie Kendrick at second, Brandon Wood at short, and Matt Brown at third. What do you think?
+-- Don K., Yorba Linda, Calif.
+
+I'm guessing that's one of about a dozen scenarios they've tossed around in the front office. I'm assuming you're moving Chone Figgins to the outfield, always a possibility. Wood and Brown would help compensate for the power you're losing with Teixeira, and Morales looks like a solid .280 hitter to me. But the infield would not have as much range with this unit. Maicer Izturis, Erick Aybar and Sean Rodriguez are terrific defenders.
+
+ Is a deal with the Padres for Peavy a realistic possibility for the Angels?
+-- Jeremy O., Riverside, Calif.
+
+I'd classify a Peavy deal as a major long shot. The Angels have the talent to satisfy the Padres' needs for improvements in the middle infield, outfield and pitching staff, and their manager, Bud Black, is keenly aware of the Angels' system from his days as Scioscia's pitching coach. But my feeling is the Angels will explore free agency for a starter before surrendering three or four players -- even for a talent as superior as Peavy. Personally? I'd go after him. Peavy is as good as it gets.
+
+ What are the chances of bringing back Dallas McPherson? He can crush the ball and had a big year at Triple-A for the Marlins.
+-- Glenn M., Corona, Calif.
+
+Word is McPherson is in the Marlins' plans and could be their third baseman next season. I think everyone would be happy to see him come back, including Angels management. The Angels have exceptional depth at third; that's not an area of need.
+
+ Do you see the Angels maybe offering Nick Adenhart or Sean O'Sullivan, with maybe one or two more prospects, to the Brewers for Prince Fielder if Teixeira cannot be re-signed? How about Matt Holliday and Garrett Atkins from Colorado? Any chance the Angels will deal for one of them?
+-- Dominic T., Murrieta, Calif.
+
+The Brewers would demand pitching for Fielder, but they'd want established arms. You'd have to include one of your main starters to get him, and I can't see the Angels, valuing starting pitching as they do, surrendering Joe Saunders or Ervin Santana in any deal that didn't bring back an elite starter in return.
+
+Holliday and Atkins are quality players, and both would require some high-caliber young talent in return. With Rockies hitters, you always have to be careful. Their splits invariably show that they're nowhere close to as productive away from Coors Field, so their overall numbers can be deceiving.
+
+ I hear a lot of talk about letting guys go to free up money to sign other players. Naturally, that's how it gets done. However, Manny? Seriously? I don't see him as an Angels-attitude type player. Am I missing something?
+-- Laurie D., Anaheim
+
+I don't see the Angels hanging in a bidding war for Ramirez -- but for budget reasons, not because there's anything terribly wrong with him as a person. He's a colorful character with a few flaws, sure, but he produces and is highly respected inside the game for his work ethic. There hasn't been a hitter who loves pressure the way Manny does since Reggie Jackson.
+
+
+
+
+
+

@@ -1,0 +1,142 @@
+
+ With the starting pitching depth that the Angels have now, what's going to happen with Joe Saunders and Dustin Moseley?
+-- Kurt C., Canyon Lake, Calif.
+
+There's an old expression in the game that applies to this situation: You never can have enough pitching depth. And the Angels, as an organization, hold this truth to be self-evident.
+
+A lot of fans would like to see the front office move some of its pitching surplus for a big hitter. There is something to be said for that position, but it's still much too early in the season to make rash judgments.
+
+Circumstances have been highly unusual in the first few weeks, notably on the weather front. When you're already nursing an injury, as new designated hitter Shea Hillenbrand was with a groin muscle strain, it makes it doubly difficult to return and recapture your hitting stroke when you're playing in frigid conditions.
+
+Hillenbrand's history shows he can hit. He's been a steady run producer with plus power for seven seasons, an All-Star on two occasions. He deserves some benefit of the doubt. If he's still struggling around midseason, the anticipated return of Juan Rivera could resolve any of those middle-of-the-order issues.
+
+Saunders and Moseley certainly would have appeal in a number of places, but I'd be hesitant to move either of them. Starting pitching is any organization's No. 1 resource, and the Angels are blessed to have it in abundance. Over the long haul, it will pay off.
+
+The Angels have been producing top prospects in the infield, at catcher and pitching, but it seems they have not produced any in the outfield since Garret Anderson. Why is that?
+-- Tim C., Long Beach, Calif.
+
+Organizations do tend to look for different talents in young players. The Angels clearly believe pitching is the highest priority -- and, ideally, you want to develop your own arms so you can teach them your way of doing things, in order to avoid mechanical flaws that can lead to elbow and shoulder problems. A similar philosophy applies to catchers. It's good to get them young and show them how you want things done, so good habits can be developed quickly.
+
+Having said that, if there's an outfielder who stands out above the crowd in the draft, I'm sure the club will take him over a lesser talent on the mound, behind the plate or in the infield. They also can take an athletic infielder -- as they did with Tommy Murphy and are now doing with Erick Aybar -- and teach him to play the outfield, to expand his game.
+
+ Has there ever been a pitcher who has had less run support than Kelvim Escobar? It seems that he brings his A game to the mound every time he pitches but has not received offensive support. Would a different spot in the rotation help?
+-- Joel C., Brea, Calif.
+
+Every club seems to have a hard-luck guy. In the Angels' case, if it's going to be Escobar, at least it's a mentally strong athlete who can handle it. He's one of the toughest guys on this or any club. And no, changing his rotation slot would not help. It's a matter of luck, more than anything. John Lackey is the guy who usually draws the other club's ace early in the season, but all that changes as the season goes on by virtue of the schedule.
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As a starting pitcher, all you can do is keep your club in the game and deliver quality starts. Escobar knows this, and so do the people who sign his paychecks. That's why he was rewarded with a lucrative contract extension.
+
+People who study stats closely will tell you pitchers' wins and losses are vastly overrated, that there are many other truer measures of performance. At the same time, every starting pitcher burns to be recognized with a W when he produces a good outing. It can be frustrating, but in the bigger picture, it's team Ws that count.
+
+ Who has surprised you the most so far in a good way?
+-- Jeremy D., Pacific Palisades, Calif. 
+
+I'd have to say the club's most pleasant surprises in the first few weeks have been Moseley an Maicer Izturis.
+
+Moseley pitched brilliantly in his starts, with uncommon confidence and poise. I think he has established himself as a man with a future. He pounds the strike zone, which keeps his defenders in the game. Pay attention sometime to how many great plays are made behind pitchers who don't waste time on the mound, who take the ball and come right at hitters.
+
+Izturis has performed with the same kind of poise and confidence on a daily basis, taking a difficult situation -- replacing the valuable and popular Chone Figgins -- and making the most of it with solid defense and an excellent offensive approach.
+
+Izturis could play regularly on a lot of clubs. He has raised his value considerably.
+
+ Why all the day games mid-week? I can't imagine that they sell as many tickets for those games as they do for an evening game. As a season-ticket holder, I can't use the "Businessman Specials." They go wasted.
+-- Rick N., Redlands, Calif.
+
+These day games at the end of series generally are scheduled to accommodate travel issues for the visiting club. It's one of the unfortunate aspects of the game. I don't think anyone is especially fond of them, including players who can't get as much rest with day games after night games.
+
+
+
+
+
+

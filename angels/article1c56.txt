@@ -1,0 +1,161 @@
+
+This week's mailbag subjects include Orlando Cabrera's signing and how it was tied to the pursuit of Matt Clement, plus the team's catching depth, the 2005 Angels Fantasy Camp, Tim Salmon's contract and Dusty Bergman's future.
+
+How come the Angels would overpay Orlando Cabrera but would not spend the money on Matt Clement? And they could have used the money that was used to sign Jarrod Washburn to build up a contract offer for Clement! What are your views? -- Nathan F., Buena Park, Calif.
+
+Nathan, the Angels tried hard to sign Matt Clement -- they offered him somewhere in the realm of three years and $25 million, in fact -- but it fell through at the last minute because Clement decided to play in Boston, which is closer to his Pennsylvania home. If the Angels had succeeded in signing Clement, they would not have signed Cabrera. But once Clement turned them down and Cabrera was still available, the Angels used the money they would have spent on Clement to get Cabrera.
+
+As far as using Washburn money to build up an offer to Clement, well, the Angels didn't have to do that. They offered plenty of money to Clement -- around the same number that he accepted to play for the Red Sox. It wasn't about money. It was about Clement ultimately wanting to pitch for an East Coast team. The fact that the Red Sox won it all last year might have had something to do with it, too.
+
+In the case of the Cabrera signing (four years, $32 million), it seems the Angels gave an offer that represented market value. Edgar Renteria, for example, got $40 million over four years from Boston. Granted, Renteria had a better year than Cabrera and is younger, but that's why he got $8 million more over the course of four years. Salaries went up throughout baseball across the board this winter. After all, Clement ended up getting huge money when you consider he's 30 years old and his lifetime record is 69-75.
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I noticed that the Angels re-signed the Molina brothers and now have opted for Josh Paul again for 2006. It seems that the Angels have a catching surplus in the organization with top catching prospect Jeff Mathis finishing Double-A last year and Wil Nieves playing at Triple-A for a number of  years. What do you think the Angels will do with the catching situation with so many catchers and so few spots? -- Michelle M.
+
+Michelle, it's all about depth. The Angels are keeping Bengie and Jose Molina and Paul on the 40-man roster because they like having three guys who can call a game at the Major League level, especially when starter Bengie Molina had some injuries last year and has had a history of leg problems. The Angels still like Mathis a lot, but he didn't hit well at all in Double-A last year, so they want to see more out of him offensively before they consider promoting him to Triple-A. He's still young. Nieves is their starting Triple-A catcher this year and can fill in at the big league level if their three Major League catchers are racked with injuries.
+
+What ever happened to Angels Fantasy Camp this year down in Tempe? I thought it was last week, but I have seen no report or any article about it anywhere. Last year I recall seeing pictures and lots of interesting stories. Was it canceled? I like to read about the 'wanna-bes' (like me, but I don't have the money) and what goes on down there, and what alumni were down there. Any information? -- John C., Simi Valley, Calif.
+
+John, the camp took place from Jan. 26 to Jan. 30 in Tempe, and from all accounts it was a huge success. It was the first time the Angels have put on the camp themselves, and they attracted the maximum of 50 campers plus a host of alumni, including Chuck Finley, Don Baylor, Brian Downing, Rex Hudler, Rick Burleson, Gary DiSarcina, Joe Rudi, Buck Rodgers and Roger Repoz, not to mention Arte Moreno, who suited up and played. The reason you read stories and saw photos last year was because I was there as a camper/journalist. I couldn't make it this time. For more information, the good people at www.halobaseballclub.com, who happen to be a bunch of former and current Fantasy Campers, tell me they'll have something up on their site very soon.
+
+
+
+
+
+
+
+   Tim Salmon  /    RF
+
+
+
+
+
+
+
+Born: 08/24/68
+Height: 6'3"
+Weight: 235 lbs
+Bats: R / Throws: R
+
+
+More info:
+Player page
+Stats | Splits
+Gallery 
+Team Site | Shop
+
+
+
+
+-->
+
+
+
+
+
+Since the King Fish (Tim Salmon) is expected to miss most of the 2005 season, how much of his salary will be absorbed by the team's insurance policy on him and how will that affect the team's luxury tax figure? And how do you expect the team to utilize that 10 million dollars in the 2006 season? -- Marc M., Carson, Calif.
+
+Marc, this is a good question with a very simple answer. According to general manager Bill Stoneman, Salmon has a guaranteed contract and he'll get his salary regardless of his injury. In other words, he'll be paid just like any healthy player and the Angels will have to count the $9.75 million he's slated to make next year as part of their payroll, which should be in the mid-$90 million range.
+
+My daughter and I were wondering what's become of minor league left-handed pitcher, Dusty Bergman. We met him at Spring Training in Tempe two years ago and have seen him pitch several times in relief. Is he still in the organization and what do you think his chances are of ever making the Major League roster? We could certainly use another lefty in the pen. -- Jane T., Placentia, Calif.
+
+Jane, if you go to Tempe for Spring Training, you can resume your conversation with Bergman, who will be attending Major League camp as a non-roster invitee. Look for uniform No. 81. Bergman is still in the organization, will most likely start the season at Triple-A again, and will have a shot to make the big club -- as he did for a brief time last year -- if there are injuries in the bullpen and if he's lights-out at the minor league level.
+
+
+
+
+
+
+
+

@@ -1,0 +1,137 @@
+
+How is Kelvim Escobar coming along with his ailing shoulder? Does the team have a set timetable for his return? -- Kevin K., Vermillion, S.D.
+
+As of Monday morning, according to manager Mike Scioscia, Escobar is "feeling much better" and could "pick up a ball and starting throwing" some time during the third week in March, the early window given in his recovery.
+
+There is no timetable for his return, and that's a good thing. The Angels have a pair of smart, experienced certified athletic trainers in Ned Bergert and Rick Smith, and they will make sure Escobar is ready before he's turned loose.
+
+This is hard on Escobar. The big man from Venezuela burns to compete, and he was primed for another huge season coming off a career year (18-7, 3.40 ERA) in 2007. But he realizes there is a lot at stake here, and he's doing it right, one sure step at a time. My best guess is he'll be back in the rotation some time in early May.
+
+No doubt the Angels are loaded. If they carry 12 pitchers, there are probably four players vying for the final roster spot. How do you see that turning out? Do you see a trade relieving the congestion? -- Bob G., Pasadena, Calif.
+
+From all indications, they'll have an 11-man pitching staff, with Chris Bootcheck's oblique strain opening up a spot. Even though sidearmer Darren O'Day has been lights-out, I like Kasey Olenberger for that role. He's done quality work at Triple-A Salt Lake the past two seasons as a starter, and he could adapt quickly to long relief.
+
+With the four outfielders absorbing the designated-hitter role, there are five spots available for bench players. One goes to Jeff Mathis or Mike Napoli, another to Erick Aybar or Maicer Izturis. Juan Rivera and Reggie Willits are locks. That would leave Robb Quinlan, Kendry Morales and Nathan Haynes competing for the final job. A trade certainly would seem likely.
+
+Quinlan is a professional hitter and versatile athlete capable of handling all four corner positions: first, third, left and right. Haynes is a superb defensive outfielder with great speed, and he is an underrated hitter capable of batting .280 or so at the Major League level. He would have to have appeal to a number of clubs, including the Padres. Morales has a great future, and he is trying to muscle his way onto the roster with a big spring, but a blockbuster half-season at first base for Salt Lake wouldn't hurt him.
+
+Has the team given consideration to moving Chone Figgins to shortstop, allowing Morales to play third base? -- Mike M., Orange, Calif.
+
+No, they're very content with Aybar and Izturis sharing shortstop at this time. They're convinced they'll get solid defense and enough offense out of these two athletes.
+
+Third base, like first, is a more important and demanding position than a lot of fans seem to realize. Figgins is as great an athlete as you will find, with exceptional quickness and a powerful arm. He's still getting comfortable at the position. He's always an option at shortstop, his original spot, but I don't see that happening this season.
+
+One of Figgins' biggest assets is his versatility, so I have mixed feelings about him being a permanent third baseman. One upside, however, is that he finally will have a listing on the All-Star ballot. What are the odds of Figgins winning a spot on the American League roster for the Midsummer Classic? -- Trey S., Bronx, N.Y.
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If he maintains his stroke and keeps finding holes with his line drives, Figgins has to be considered a solid All-Star candidate, even though Alex Rodriguez is a virtual lock for the starting job again. Figgins loves to play at Yankee Stadium, and he'd certainly enrich the AL team if he's taken as a reserve.
+
+Why not try Rivera at third base instead of first? Third has been a hole since Troy Glaus left. If Rivera is athletic enough to play third, that would solve a lot of problems. -- Matt R., Riverside, Calif.
+
+Rivera is a fine athlete, but the list of outfielders who tried to make the move to third and had bumps, bruises and frustrations to show for it is endless. It's an extremely difficult position to play -- that's why so few master it.
+
+While I agree that too many DH options is a good problem, you wrote in one of your answers "accomplished hitters such as Rivera and Willits." Are you kidding me? Accomplished hitters? Sounds like you got a little too excited with your adjective. -- Scotty P., Solana Beach, Calif.
+
+I'll stand by that. Rivera is a .291 career hitter with a .473 slugging percentage in 1,492 at-bats. That qualifies as accomplished to me. As for Willits, he set Angels rookie records for average (.293) and on-base percentage (.391) while playing the entire season with pain caused by a gallbladder that required removal in January. I'd say he's exceptionally accomplished as a hitter.
+
+Why are most Spring Training games played in the day, when most regular-season games are at night? -- Richard L., Costa Mesa, Calif.
+
+I've been asking that question for years, Richard, and I can't say I've ever received an explanation I would describe as logical and sensible. When you're trying to attract a younger audience, it seems you'd want to make as many games as possible available to youth during a time of year when they're at school during the day. I've talked to dozens of players who would prefer more night games to hone their skills for the regular season. Change sometimes comes slowly. That's about all I can tell you.
+
+
+
+
+
+

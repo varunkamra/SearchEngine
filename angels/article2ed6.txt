@@ -1,0 +1,160 @@
+
+ I am a huge Francisco Rodriguez fan, and it would be heartbreaking if he left Anaheim. Are there still options for Frankie if the Angels don't go for Manny Ramirez?-- Katz D.,  Anaheim
+
+It appears that the Angels will see what the market holds for K-Rod and react accordingly. If he can get the $15 million per season for four or five years he is believed to be seeking, they probably will decline and move forward with another plan -- in-house, in free agency or in a possible trade. But if his market is less than anticipated, all things being fairly equal, my sense is that Frankie would come home in a heartbeat. There is a sensitive side to Frankie that he rarely shows. It was evident whenever he'd talk about the possibility of leaving the only organization he has known.
+
+A reasonable Plan B would involve Scot Shields and Jose Arredondo, seeing what they can do in tandem in the ninth-inning role. It would alleviate the pressure on one guy trying to handle the role. If that doesn't work out, they might have Kelvim Escobar available after right shoulder surgery around midseason, and he has closing experience. Or, they could make a move at the Non-Waiver Trade Deadline in late July.
+
+There's always risk to some degree in player moves, and there will be a lot of pressure on whoever succeeds K-Rod. He has spoiled everyone with his brilliant work; whatever you might think of his delivery, his personal style, whatever you might find less than appealing, this is a high-quality professional who has done an amazing job for the Angels.
+
+
+
+ Are the Angels not even considering using Arredondo in the closer role? He's got great stuff, a very live arm, and he's already under contract. It seems that there are other positions that need to be focused on financially.-- David P., Temecula, Calif.
+
+It is my gut feeling, based primarily on reading between the lines of GM Tony Reagins and manager Mike Scioscia, that they certainly think Arredondo has the stuff and temperament to close. It's just a question if that time is now -- and there's no way to find out unless they give him a shot.
+
+
+
+Why aren't the Angels interested in Jake Peavy? Should they consider a multi-player offer like the Miguel Cabrera deal that Detroit did last year?-- Earl J., Placentia, Calif.
+
+The Angels haven't expressed any public interest in Peavy, but I have to believe they have given it serious consideration behind closed doors. They know the Padres' ace is one of the five or six premier starters in the game, a man capable of doing what Josh Beckett and Cole Hamels did for their teams the past two Octobers.
+
+Peavy is a good buy at four years and $63 million, in light of what CC Sabathia and the other free agents are expected to pull down. There have been concerns about Peavy's delivery creating arm strain and ailments, but none of best pitching minds I've asked -- from Greg Maddux to Don Sutton to Al Downing -- see this as any more of an issue with Jake than other starting pitchers.
+
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Peavy has made it clear he wants to stay in the National League, where he can hit and run the bases, but if the Angels were put in front of him and he weighed the pluses and minuses, I think he'd have to like what they have to offer. The question is whether the Angels will surrender what it takes -- at least one starter, maybe a reliever, a middle infielder or two and a prospect. For what it's worth, I think they have the merchandise to do it and should go all out for Peavy.
+
+
+
+ What do you think of trading for the Padres' Khalil Greene and moving him to third base? Getting him out of San Diego would increase his average to around .270 along with an increase in power numbers. He would also be a great defensive third baseman. I would take him over Atkins. What do you think?-- Brad B.,  Brea, Calif. 
+
+Greene is a first-class shortstop, so I wouldn't see why you'd want to move him to third unless you wanted Chone Figgins in the outfield. In terms of ballpark impact, Greene is at the opposite end of spectrum from Matt Holliday and Garrett Atkins in Colorado. It shocks a lot of fans to discover that Greene has better career road power numbers across the board -- slugging, homers, RBIs -- than Holliday and Atkins. He's coming off a bad season, but he is only 29, in his prime. I think he'd rebound in a big way with the Angels.
+
+
+
+
+
+
+ What have you been hearing about the Angels' interest in Adam Dunn, even if they sign Mark Teixeira? I just don't think there's enough offense to keep up with the elite teams. What's your take? Also, what are the Angels going to do with Gary Matthews Jr.? He needs to play regularly or get traded -- and with a contract as large as his, a trade doesn't seem likely.-- Adrian L., Santa Barbara, Calif.
+
+Dunn is going to command big bucks -- probably in the $12 million a year range -- and that's a lot to spend on a guy who's probably a DH, especially when you have so many DH options already on board. As for Matthews, if he is able to come back on a sound knee after surgery and show what he can do, I have to think clubs in need of a center fielder will be getting in touch with Reagins. Matthews is a quality center fielder who suffers when he moves to the corners, where he clearly is not as comfortable.  
+
+
+
+
+Do you think the Angels will bring back Jon Garland?-- Alex K., Scotland
+
+With starting pitching in such demand, I think Garland is going to receive offers beyond what the Angels will be willing to present to him. He did a solid job for them last season,  but they seem to have confidence that someone will emerge for the No. 5 slot from a variety of candidates --  Dustin Moseley, Nick Adenhart, Nick Green, Anthony Ortega, Shane Loux -- to do an acceptable job at the back end of the rotation.
+
+
+
+
+
+ With K-Rod probably gone, have the Angels considered possibly re-acquiring Bobby Jenks, who has closed for the White Sox?-- Jason T., Carson, Calif. 
+
+Reagins has a good relationship with White Sox GM Kenny Williams -- Orlando Cabrera for Garland was Reagins' first deal last November -- and I could see them getting together again and discussing Jenks. Another White Sox player the Angels always have liked is Paul Konerko, and he could emerge as a trade candidate if Mark Teixeira doesn't return to Anaheim. Matthews could be a fine fit for the White Sox if he shows early in the season he is healthy following knee surgery.
+
+
+
+
+ G'day, Lyle. Do you really think Arte Moreno would give Ramirez six years at $25 million a year? Honestly?-- Dan M., Sydney, Australia
+
+In a word, mate -- no. But if you want to talk about three years at that kind of money, there might be a conversation. I know Manny's independence concerns a lot of people -- and might not seem like an ideal fit with Scioscia -- but if you're looking to win games in October, you want this guy in your lineup. He's one of the greatest clutch hitters ever.
+
+
+
+
+
+

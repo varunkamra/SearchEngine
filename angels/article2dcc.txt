@@ -1,0 +1,135 @@
+
+ How can the Angels take Reggie Willits out of the lineup when Garret Anderson comes back? Can Anderson be the DH, or maybe Willits in that role?
+-- Greg V., Goodyear, Ariz. 
+
+Mike Scioscia is a smart guy. He will find a way to keep Willits in the lineup, at the top of the order, as long as he's anything close to as productive as he's been over the past month. Willits' emergence as a prime-time player is not just one of the stories of the season in Los Angeles/Anaheim  -- it's one of the stories of this baseball season.
+Willits is so totally into the game, and so respectful of the athletes who excel, that he's the first to say Anderson goes back in the lineup when his hip is fully healed. I'd say Anderson is the regular left fielder and occasional DH, and Vladimir Guerrero gets time at DH on artificial turf. Willits will spell all three outfielders and get some DH at-bats. Scioscia will figure out a way to keep everyone involved and productive.
+Shea Hillenbrand is starting to swing the bat with some force again, so he remains a factor in the DH picture. And Howie Kendrick is almost ready to come off the disabled list. It's kind of funny, really. A few weeks ago I was getting a dozen e-mails a day from fans frantic about how terrible the lineup was, wanting players shipped to the Minor Leagues and big names acquired from other clubs in exchange for prospects.
+Now the issue seems to be how to find enough at-bats for all these hitters. We haven't even mentioned guys like Robb Quinlan and Kendry Morales, who have delivered big hits and have the ability to break open games -- and Juan Rivera looms on the horizon, a midseason addition.
+
+ What is the status of Rivera, Kendrick and Anderson?  When can we expect them back in the lineup?
+-- Tim C., Long Beach, Calif.
+
+Kendrick (broken finger) could be back on the upcoming road trip, in Detroit or New York. Anderson also could be back in the swing of things on the trip. He could wake up one day and feel ready to go again with the type of injury he has (a hip flexor tendon tear).
+Rivera's return is probably going to happen in late June, early July, assuming his broken leg continues to hold up as he steps up his workout regimen.
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Is this a walk year for Bartolo Colon? What is the probability that he'll be with the Angels next year?
+-- Tarry P., Barrie, Ontario, Canada 
+
+This is the final year of Colon's deal, and he figures to be a highly desirable free agent if he continues to perform the way he has so far this season. How the Angels react to his free agency probably hinges on how he closes out the season.
+The Angels are covered with Joe Saunders, Dustin Moseley, Chris Bootcheck and fast-rising Nick Adenhart, among other starters. So I'm  not sure how high they'd go for Colon. It's not difficult to imagine the Yankees, say, making Colon an offer he can't refuse.
+
+ When Kendrick comes back, what will happen to Erick Aybar?
+-- Nicholas L., Covina, Calif.
+
+A tremendous athlete who has enhanced his profile immeasurably, Aybar figures to settle into the role he originally had -- an all-purpose infield role player who can play in the outfield when necessary. He can pinch-run, pinch-hit and start at second or short on occasion. In other words, he's a dream role player for any manager.
+
+
+ The Angels always have that rookie who comes in halfway through the season or toward the end of the season who surprises everybody with his amazing skill. Do you have a good guess who it might be this year -- or is he already here?
+-- Josh K., Yorba Linda, Calif. 
+
+A name to remember is outfielder Nathan Haynes. He's a 28-year-old speed burner who has been hitting around .400 all season at Triple-A Salt Lake, finally healthy after a string of injuries set him back.
+Guys who have played with Haynes rave about his attitude and his defense as well as his ability to drive the ball into gaps and steal bases. He's a pure athlete, capable of playing center field in the Major Leagues right now. He's a tremendous potential option should the need arise for an outfielder down the road.
+
+
+ Is it my imagination, or does Moseley have better velocity this year?
+-- Ted U., Torrance, Calif. 
+
+I asked him what he thinks about that, and Moseley admitted that he might be throwing a little harder thanks to an alteration in his delivery. The real change in him, however, is his confidence level. He clearly goes to the mound thinking he's going to get hitters out -- and that's what he's been doing with amazing regularity. Moseley, like Saunders, could be starting for a number of Major League clubs.
+
+
+
+
+
+

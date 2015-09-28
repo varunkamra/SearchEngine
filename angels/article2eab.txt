@@ -1,0 +1,147 @@
+
+ Now that the offseason has arrived -- painfully and prematurely for Angels partisans -- the mailbag will appear weekly, with a few  exceptions, throughout the winter instead of every other week. We'll try to answer as many questions as possible, so please keep them coming. Thanks.
+
+ With Francisco Rodriguez, Mark Teixeira and CC Sabathia becoming free agents this offseason, and with Garret Anderson, Darren Oliver, Juan Rivera and Jon Garland also probably becoming free agents, what are the odds the Angels will free up enough room to sign or re-sign two of the big names? And what are the chances they re-sign Anderson?
+-- Justin F., Spanish Fork, Utah
+
+I wish I had some definitive answers for you, Justin, but my crystal ball clearly is on the blink. It had the Angels going all the way this year, putting owner Arte Moreno in the right mood to shoot for the moon this winter with megadeals.
+
+As it now stands, I have no idea what the next few months will hold for Moreno, GM Tony Reagins and  manager Mike Scioscia. My sense is that bringing Teixeira back is the club's No. 1 priority -- understandably so. This guy is a major talent in his prime, all production, no maintenance. No big name on the market would come with less risk.
+
+As for record-smashing K-Rod, my gut feeling is that he'll be closing in another big city next season -- New York or Detroit. The Mets and Tigers are in dire need of a shutdown artist. The Mets, in particular, have the resources to make Rodriguez happy as they move into their new ballpark. He'd fit in nicely in that clubhouse, and he's always enjoyed pitching in the Big Apple.
+
+Timing will be crucial in all these winter maneuverings that will begin soon after the World Series ends. If the Angels sense that Teixeira is gone, they could turn their attention to Sabathia, who would give them a lethal rotation. As for Anderson, there's a possibility he'll be back, but that could take some time to play out. Both Garret and the Angels need to figure out what is best for them.
+
+K-Rod has broken the all-time single-season saves record, an amazing feat. But it is not likely that he will be back next year. Do you see Jose Arredondo or Scot Shields filling that void?
+-- John M., Orange, Calif.
+
+At the moment, it would seem that Shields, given his resume, would warrant first crack at the closer's job. He has the electric stuff and the mental toughness to get it done. There wasn't anything he could do about that Jason Bay flare that fell in front of a diving Reggie Willits for the double that set up the winning run in Game 4. Bad luck visits everyone in the postseason, like Mariano Rivera, on that flare that beat the Yankees in Arizona in 2001.
+
+Arredondo had a remarkable breakthrough season, but he could use a full season in the setup role to better acclimate himself -- just as Rodriguez had when he was being groomed to replace Troy Percival.
+
+There's also the intriguing possibility that Kelvim Escobar could fortify the bullpen when he returns from shoulder surgery. The target date, last we heard, is around midseason. Escobar has the stuff and temperament to be an ideal closer and showed he can handle it before becoming an elite starter. It remains to be seen where he'll be most effective in his return, starting or relieving, but he'll be an asset in any role.
+
+ What will the Angels do with their stockpile of talent in the infield? Erick Aybar, Howie Kendrick and Maicer Izturis have all shown what they can do, and young guys like Brandon Wood, Sean Rodriguez, Matt Brown and Freddy Sandoval also have potential. Any possibility of a trade? I hope not, because I love these young guys.
+-- Jessica K., Rancho Cucamonga, Calif.
+
+
+
+
+
+
+
+
+
+
+
+Have a question about the Angels?
+
+E-mail your query to MLB.com Angels beat reporter Lyle Spencer for possible inclusion in a future Inbox column. Letters may be edited for brevity, length and/or content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name, Last Initial:
+
+
+
+Hometown:
+
+
+
+
+
+Email Address:
+
+
+
+
+
+Question:
+
+
+
+
+
+
+
+
+<!--
+var vo_news_mailbag_form = new Validator(document.news_mailbag_form);
+vo_news_mailbag_form.addField("EMAIL_NAME","First Name, Last Initial",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("hometown","Hometown",true,"vTxt1",1,50);
+vo_news_mailbag_form.addField("EMAIL_FROM","E-mail Address",true,"vEmail",1,50);
+vo_news_mailbag_form.addField("EMAIL_BODY","Question",true,"none",1,39999);
+
+
+function customValidation() {
+this.obj.EMAIL_BODY.value = "E-mail From: " + this.obj.EMAIL_NAME.value + "\n\n" + this.obj.EMAIL_BODY.value;
+}
+vo_news_mailbag_form.finalOps = customValidation;
+
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Angels do have a deep pool of talent in the middle of their infield. Six quality athletes -- Aybar, Kendrick, Izturis, Wood, Rodriguez and Chone Figgins -- are capable of playing at a high level at shortstop and/or second base, with Brown and Sandoval primarily third basemen. How the Angels parcel out playing time will be interesting to watch.
+
+One factor to keep in mind is that Aybar, Kendrick, Izturis and Figgins all have lost significant time to injuries the past two seasons. That has made the depth vital. Wood and Rodriguez displayed talents and temperaments that will play at the Major League level, giving management the option to move one or more of these players in the right deal.
+
+As it stands right now, Figgins is the third baseman and Kendrick the second baseman, with Izturis' superior offense and dependability giving him a slight edge over Aybar at shortstop. Wood should get an opportunity, based on his superb season at Triple-A Salt Lake and what he showed in September, to earn a regular job at third or short. Figgins' ability to play all three outfield positions gives the club an option there should Anderson and Rivera depart as free agents.
+
+Looking back, was the Teixeira deal worth it? If he leaves, they'll need another first baseman, obviously, unless they think Kendry Morales can do the job.
+-- Andy H., Los Angeles
+
+When the deal with Atlanta was struck on July 29, my initial reaction was that it was a major risk. Casey Kotchman was having a great season and the Angels had him under control contractually for three more years. I knew Teixeira was good -- I just didn't realize he was this good.
+
+In his two months and one week with the Angels, Teixeira could not have done more -- except swing at that pitch that looked to be several inches off the plate that was called strike three in Game 4 of the ALDS (not to dwell on past misfortunes). But if Tex accepts what the mega-wealthy Yankees can offer, the Angels will be back at square one at first base, a pivotal position.
+
+Barring a deal, Morales probably would get first crack. Robb Quinlan, a quality hitter buried on the depth chart the past few seasons, also would be in the picture along with Matt Brown. A natural third baseman, Brown hit under pressure for Team USA in the Beijing Games and had a big year at Salt Lake. While these players plainly are not in Teixeira's class, few are.
+
+ What are Arredondo's chances for AL Rookie of the Year? Evan Longoria had a good year, but Jose's numbers (10-2, 1.62 ERA) were amazing.
+-- Danny M., Simi Valley, Calif.
+
+Realistically, I can't see Arredondo finishing ahead of Longoria, a driving force for the Rays, or White Sox second baseman Alexei Ramirez, who helped drive his team to the postseason. But third place is a distinct possibility for Arredondo given his contributions to the team with the best regular-season record in the Majors.
+
+ Where do you see K-Rod finishing in the MVP and Cy Young Award races?
+-- Bryan N., Temecula, Calif.
+
+I see Rodriguez making the top five in the wide-open MVP balloting and running second to the Indians' Cliff Lee in the Cy Young derby, although the Jays' Roy Halladay could push K-Rod to third.
+
+
+
+
+
+
